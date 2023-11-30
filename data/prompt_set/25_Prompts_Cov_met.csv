@@ -1,0 +1,484 @@
+﻿prompt_id,Features,0 shot,1-n shot,generation
+1,Bare task description,"It's a conventional metaphor detection task.  List words from every sentence from a set of unrelated sentences, one word per row. Mark conventional metaphors with ':1'. 
+Sentences:{text}","It's a conventional metaphor detection task. Learn from the examples:
+
+Example 1: ""Time flies.""
+Time
+flies:1
+
+Then list words from a new text, one word per row. Mark conventional metaphors with ':1'. 
+Text:{text}",ChatGPT4
+2,Bare task description,"We are focusing on detecting conventional metaphors within sentences. Take each sentence I provide, and split it into separate words, each on a new line. If a word forms part of a conventional metaphor, please mark it with ':1'. 
+
+Now, examine the following sentence:{text}","We are focusing on detecting conventional metaphors within sentences. Take each sentence I provide, and split it into separate words, each on a new line. If a word forms part of a conventional metaphor, please mark it with ':1'. Use the following examples as reference:
+
+Example 1: ""Time flies.""
+Time
+flies:1
+
+Now, examine the following sentence:{text}",ChatGPT4
+3,Bare task description,"Please process the following text to detect conventional metaphors. For each word in the text, list it on a new line. If the word is part of a conventional metaphor, mark it with ':1'. Otherwise, do not mark it.
+
+Text: {text}","Before you process the main text, please refer to the following examples to better understand the conventional metaphor detection:
+
+Example 1: ""Time flies.""
+Time
+flies:1
+
+Now, based on the above examples, process the following text to detect conventional metaphors. For each word in the text, list it on a new line. If the word is part of a conventional metaphor, mark it with ':1'. Otherwise, do not mark it.
+
+Text: {text}",ChatGPT44
+4,Bare task description,"Your task is to detect conventional metaphors. Proceed as follows:
+
+Dissect the text provided and write down each word separately, one word per row. Mark any conventional metaphorical word with "":1"".
+Text: {text}","Your task is to detect conventional metaphors. Proceed as follows:
+
+Step 1: Learn from these examples with conventional metaphors indicated by "":1"".
+Time flies.
+Time
+flies:1
+
+Step 2: Dissect the text provided and write down each word separately, one word per row. Mark any conventional metaphorical word with "":1"".
+Text: {text}",ChatGPT4
+5,Bare task description,"Analyze the given text. Only output each word separately. If a word is a conventional metaphor, append ':1' to it.
+
+Text:{text}","Please train on the provided examples, each tagged to highlight conventional metaphor usage. 
+
+Example1:Time flies.
+Time
+flies:1
+
+After training, analyze the given text. Only output each word separately. If a word is a conventional metaphor, append ':1' to it.
+
+Text:{text}",ChatGPT4
+6,Bare task description,"For the purpose of metaphor detection,you will receive a text. Decompose this text into its constituent words, placing each on a separate line. Append ':1' to any word that constitutes a conventional metaphor.
+
+Text:{text}","For the purpose of metaphor detection, you will be supplied with annotated texts where conventional metaphors are marked. Please commit these examples to your learning algorithm. 
+
+Example 1:
+Text: ""Time flies""
+Time
+flies:1
+
+Subsequently, you will receive an unannotated text. Decompose this sentence into its constituent words, placing each on a separate line. Append ':1' to any word that constitutes a conventional metaphor.
+
+Text:{text}",ChatGPT4
+7,Bare task description + instruction steps + feedback loop,"Note: Don’t output step 1 but only output results from step 2.
+Step 1: First attempt: 
+Go through every word in a given text. Find out conventional metaphorical words
+
+Text: {text}
+
+Step2: Second attempt: 
+Review the conventional metaphorical words internally. After confirmation, list each word from the provided text, one word per row. Mark potential conventional metaphors with ':1'.","Note: Don’t output step 2 but only output results from step 3.
+ 
+Step 1: Review Examples
+Before processing the main text, review the following examples to grasp the conventional metaphor detection:
+
+Example 1:
+Text: ""Time flies""
+Time
+flies:1
+
+Step 2:First attempt: 
+Go through every word in a given text. Find out conventional metaphorical words
+
+Text: {text}
+
+Step3: Second attempt: 
+Review the conventional metaphorical words internally. After confirmation, list each word from the provided text, one word per row. Mark potential conventional metaphors with ':1'.",manual+ChatGPT4
+8,background information ,"Your mission is to detect metaphors. Remember, not every word with a non-literal meaning is a metaphor, but only those that have been conventionalized in language.
+
+You will be given a new text. List every word from the provided text. Words identified as conventional metaphors should be followed by "":1"", and each word or word:1 should be presented on a separate line.
+
+Text: {text}","Your mission is to detect metaphors. Remember, not every word with a non-literal meaning is a metaphor, but only those that have been conventionalized in language.
+
+First learn from examples, in which conventional metaphorical words are appended with "":1"":
+
+Example1:
+""Time flies""
+Time
+flies:1
+
+Then you will be given a new text. List every word from the provided text. Words identified as conventional metaphors should be followed by "":1"", and each word or word:1 should be presented on a separate line.
+
+Text: {text}",ChatGPT4
+9,Word classification + bare task description,"Your task is to identify conventional metaphors in a given sentence and list each word per row, labeling those that are part of a conventional metaphor with a "":1"".  Other words (non metaphors or novel metaphors) should be listed without any label.
+
+Now, analyze the following sentence and produce the output in the specified format:
+
+{text}","Your task is to identify conventional metaphors in a given sentence and list each word per row, labeling those that are part of a conventional metaphor with a "":1"". Other words (non metaphors or novel metaphors) should be listed without any label.
+
+Example 1:
+Text: ""Time flies""
+Time
+flies:1
+
+Learn from the examples above. Now, analyze the following text and produce the output in the specified format:
+
+{text}",ChatGPT4 + manual revision
+10,Bare task description + word classification,"Review the text provided and list out all the words, one word per row. For any word that is a part of a commonly used metaphor, append "":1"" immediately after the word. Leave non-metaphorical and novel metaphorical words unchanged. Ensure you preserve the original sequence of words from the sentence.
+
+
+Now, please process the following text:
+
+{text}
+","Review the text provided and list out all the words, one word per row. For any word that is a part of a commonly used metaphor, append "":1"" immediately after the word. Leave non-metaphorical and novel metaphorical words unchanged. Ensure you preserve the original sequence of words from the sentence.
+
+Example for Clarification:
+
+Time flies.
+Time
+flies:1
+
+Now, please process the following text:
+
+{text}",ChatGPT4
+11,checklist,"Using the checklist below, identify conventional metaphors:
+- Tokenize the text by space.
+- Output every token, one token per row.
+- Check if the token's meaning is comventional metaphorical in context.
+- Label comventional metaphorical tokens with ':1'.
+
+Now, apply to: {text}","Using the checklist below, identify conventional metaphors:
+- Tokenize the text by space.
+- Output every token, one token per row.
+- Check if the token's meaning is comventional metaphorical in context.
+- Label comventional metaphorical tokens with ':1'.
+
+Example:
+Text: ""She has a heart of gold.""
+Output:
+She
+has
+a
+heart:1
+of
+gold:1
+
+Now, apply to: {text}",manual+ChatGPT4
+12,Research Assistant Role,"Assume the role of a research assistant tasked with analyzing a piece of text for metaphor usage. Your objective is to create a list of the text's words, flagging any conventional metaphors with ':1'. The desired format for your response should be in the form of 'word' or 'word:1', and ensure one word per row.
+
+Text:{text}","Task: Analyze the provided text for metaphor usage. List the words from the text, flagging any conventional metaphors with ':1'. Your response should be in the format 'word' or 'word:1', and eesure one word per row.
+
+Example:
+Input: ""Time flies.""
+Output: 
+""Time
+flies.:1""
+
+Text:{text}",ChatGPT4
+13,Code-Like Parsing Instruction,"Write a 'parser' that processes the following text. It should output each word per row, and if a word is employed as a conventional metaphor, it should be followed by ':1'. Structure your output as though it's a parsed array: 'word' or 'word:1'."" 
+
+Text:{text}","Before you process the following text, study these examples where conventional metaphors are identified. In each instance, the metaphorical word is followed by ':1'.
+
+Examples:
+Time flies.
+Time
+flies.:1
+
+Now, using the pattern learned from these examples, 'parse' the following text by outputting each word per row. For any word that is used as a conventional metaphor, append ':1'. Present your output as if it's a parsed list: 'word' or 'word:1'.
+
+Text:{text}",ChatGPT4
+14,Collaborative Task,"Let's work on a conventional metaphor detection  task together. I will give you a text, and I need your help to identify any conventional metaphors used within it. List each word and append ':1' to any word that represents a metaphor. The final output should be a sequence where metaphorical words are clearly marked, like this: 'word' or 'word:1', and should be one 'word' or 'word:1' per row.
+
+Text for labelling:{text}","Task: Let's work on a conventional metaphor detection  task together. I will give you a text, and I need your help to identify any conventional metaphors used within it. List each word and append ':1' to any word that represents a metaphor. The final output should be a sequence where metaphorical words are clearly marked, like this: 'word' or 'word:1', and should be one 'word' or 'word:1' per row.
+
+Example for learning:
+Text: ""Time flies""
+Time
+flies:1
+
+Text for labelling:{text}",ChatGPT4
+15,Bare task description,"Your mission is to detect metaphors. Remember, not every word with a non-literal meaning is a metaphor, but only those that have been conventionalized in language.
+
+List every word from the provided text. Words identified as conventional metaphors should be followed by "":1"", and each word or word:1 should be presented on a separate line.
+
+Text for Analysis: {text}","Your mission is to detect metaphors. Remember, not every word with a non-literal meaning is a metaphor, but only those that have been conventionalized in language.
+
+List every word from the provided text. Words identified as conventional metaphors should be followed by "":1"", and each word or word:1 should be presented on a separate line.
+
+Example(s):
+For the text ""Time flies"", your answer should be:
+Time
+flies:1
+
+Text for Analysis: {text}",ChatGPT4
+16,steps,"Your task is to engage in conventional metaphor detection within provided English sentences. When given an unmarked sentence, you will dissect it by listing each constituent word individually on separate lines. Should you determine a word to function as a conventional metaphor, you are to denote this by appending ':1' after the respective word. Let us embark on this analytical endeavor.
+
+Text: {text}","Your task is to engage in conventional metaphor detection within provided English sentences. This exercise will consist of two phases. Initially, you will be presented with a series of annotated examples that will serve as a learning resource. Please review these examples with attentiveness to grasp the nature of metaphorical language. Subsequently, when given an unmarked sentence, you will dissect it by listing each constituent word individually on separate lines. Should you determine a word to function as a ceonventional metaphor, you are to denote this by appending ':1' after the respective word. Let us embark on this analytical endeavor.
+
+Examples:
+Time flies.
+Time
+flies:1
+
+Text: {text}",ChatGPT4
+17,Background information,"A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, 'Time is money' is a conventional metaphor equating time to a valuable resource. Your task will be to identify conventional metaphors within given sentences. 
+
+Please analyze the following sentence and output each word, with "":1"" appended to any word that is part of a conventional metaphor:
+{text}","A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, 'Time is money' is a conventional metaphor equating time to a valuable resource. Your task will be to identify conventional metaphors within given sentences. Let's start with some labeled examples for learning:
+Text: ""Time flies""
+Time
+flies:1
+After learning from these examples, please analyze the following sentence and output each word, with "":1"" appended to any word that is part of a conventional metaphor:
+{text}",ChatGPT4
+18,Background information,"You will be trained to recognize conventional metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the next sentence and output each word individually, one word per row, marking any conventional metaphor with "":1"":
+{text}","You will be trained to recognize conventional metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. For example, 'the world is a stage' is a conventional metaphor where 'stage' is used to describe life as a performance.
+
+First, here are some labeled examples to guide your learning, and words labelled with "":1"" are conventional metaphors in the example text:
+Text: ""Time flies""
+Time
+flies:1
+
+Now, with these examples in mind, analyze the next sentence and output each word output each word individually, one word per row, marking any conventional metaphor with "":1"":
+{text}",ChatGPT4
+19,Background information,"Contextual Understanding
+Metaphors are a key element of language, allowing us to convey complex ideas and emotions in a relatable way. A conventional metaphor is a figure of speech that is well established, widely recognized, and commonly used in everyday language.
+
+Metaphor Identification Task
+Now, list each word individually in the following text and annotate those which are used as conventional metaphors with ':1'. Consider the broader context and the commonality of the metaphorical expression in everyday language.
+
+Input text: {text}
+
+Remember to evaluate each word within the context it is used. Some words might typically be metaphorical but can be literal in certain contexts, and vice versa.
+","Contextual Understanding
+Metaphors are a key element of language, allowing us to convey complex ideas and emotions in a relatable way. A conventional metaphor is a figure of speech that is well established, widely recognized, and commonly used in everyday language.
+
+Step 1: Learning from Examples
+First, examine the examples below to understand how conventional metaphors are embedded within the text:
+
+Example 1:
+Text: ""Time flies""
+Time
+flies:1
+
+Step 2: Metaphor Identification Task
+Now, apply the understanding from the examples to the following text. List each word individually and annotate those which are used as conventional metaphors with ':1'. Consider the broader context and the commonality of the metaphorical expression in everyday language.
+
+Input text: {text}
+
+Remember to evaluate each word within the context it is used. Some words might typically be metaphorical but can be literal in certain contexts, and vice versa.
+",ChatGPT4
+20,Bbackground information about conventional metaphor + guidelines,"Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark conventional metaphorical words with ':1'.
+
+Text: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses.
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.  
+          
+Training Examples:
+
+""Time flies""
+Time
+flies:1
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark conventional metaphorical words with ':1'.
+
+Text: {text}",ChatGPT4
+21,Background information about conventional metaphor + instruction steps,"Objective: Identify conventional metaphors within the provided text by considering the context and overall message. Analyze the text to differentiate between literal language and metaphorical usage.
+
+Criteria for Conventional Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be lexicalized, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read the input text thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of words from the text.
+5. Mark each conventional metaphor with ':1'.
+
+Input Text: {text}
+
+Output:
+Provide a list of words from the input text, with conventional metaphorical words marked with ':1'.","Objective: Identify conventional metaphors within the provided text by considering the context and overall message. Analyze the text to differentiate between literal language and metaphorical usage.
+
+Criteria for Conventional Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be lexicalized, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Learning examples:
+
+Example 1:
+Text: ""Time flies""
+Time
+flies:1
+
+Instructions:
+
+1. Read the input text thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of words from the text.
+5. Mark each conventional metaphor with ':1'.
+
+Input Text: {text}
+
+Output:
+Provide a list of words from the input text, with conventional metaphorical words marked with ':1'.",manual+ChatGPT4
+22,Revised from manual annotation process,"Below is a workflow of conventional metaphor detection. Please go through the steps but just output the results of step 3 and 4:
+1. Input Text:
+    Kill the procedure.
+2. Apply the metaphor identification procedure to the input text:
+   a. Read the input text thoroughly to establish a general understanding of its thematic content.
+   b. Identify all the lexical units (words and phrases) within the input text.
+   c. For each lexical unit, perform the following:
+      i. Determine its contextual meaning within the input text.
+      ii. Confirm if this meaning is documented in standard dictionaries.
+      iii. Compare the contextual meaning to the lexical unit's basic meaning in more common usage.
+      iv. If the lexical unit has a metaphorical use that can be understood from its basic meaning, even though there is a contrast, mark it as metaphorical.
+3. Output  the input text sequentially, word by word, one word per row.
+4. For each metaphorical word identified, append ':1' to signify its metaphorical usage.","Below is a workflow of conventional metaphor detection. Please go through the steps but just output the results of step 4 and 5:
+1. Examples of conventional metaphors. 
+    Time flies.
+    Time
+    Flies:1
+2. Input Text:
+    Kill the procedure.
+3. After learning from the examples, apply the metaphor identification procedure to the input text:
+   a. Read the input text thoroughly to establish a general understanding of its thematic content.
+   b. Identify all the lexical units (words and phrases) within the input text.
+   c. For each lexical unit, perform the following:
+      i. Determine its contextual meaning within the input text.
+      ii. Confirm if this meaning is documented in standard dictionaries.
+      iii. Compare the contextual meaning to the lexical unit's basic meaning in more common usage.
+      iv. If the lexical unit has a metaphorical use that can be understood from its basic meaning, even though there is a contrast, mark it as metaphorical.
+4. Output  the input text sequentially, word by word, one word per row.
+5. For each metaphorical word identified, append ':1' to signify its metaphorical usage.",manual+ChatGPT4
+23,Revised from manual annotation process,"Role: Conventional Metaphor Detector
+
+Task: Perform metaphor detection on a given text using the following steps:
+
+Step 1: Understand the contextual meaning of every word in the text.
+Step 2: Split the text into individual tokens using space as a delimiter.
+Step 3: For each token, compare its contextual meaning to its basic meaning related to physical motion, feeling, or its historically older significance.If there is a deviation, go to step 4; if the contectual meaning is the basic meaning, then it is not a metaphor.
+Step 4: Check if the contextual meaning of the word has been lexicalized. If yes, label it as a conventional metaphor with "":1"".If not, leave it unlabeled.
+Step 5: Present each token on a separate line.
+
+Text for labeling: {text}
+
+Note: The final output should only display the results of the last step.","Role: Conventional Metaphor Detector
+
+Training Examples:
+
+""Time flies""
+Time
+flies:1
+
+Task: Perform metaphor detection on a given text using the following steps:
+
+Step 1: Learn from the given conventional metaphor detection examples.
+Step 2: Understand the contextual meaning of every word in the text.
+Step 3: Split the text into individual tokens using space as a delimiter.
+Step 4: For each token, compare its contextual meaning to its basic meaning related to physical motion, feeling, or its historically older significance.If there is a deviation, go to step 4; if the contectual meaning is the basic meaning, then it is not a metaphor.
+Step 5: Check if the contextual meaning of the word has been lexicalized. If yes, label it as a conventional metaphor with "":1"".If not, leave it unlabeled.
+Step 6: Present each token on a separate line.
+
+Text for labeling: {text}
+
+Note: The final output should only display the results of the last step.",Manual
+24,Revised from manual annotation process,"Task: Spot conventional metaphors in the text.
+
+Guidelines:
+
+Check if the literal meaning and contextual meaning of the phrases differs
+If yes, confirm the metaphorical meaning is known in dictionaries.
+
+Steps:
+
+Read: Understand the input text's message.
+Find: Look for metaphors in the input text.
+Check: Use a dictionary to confirm.
+List: Write down all words.
+Mark: Add ':1' to any conventional metaphor.
+
+Output:
+List all words. Go through the steps, If a word is a usual metaphor, add ':1' after it.Only output results for Mark.","Task: Spot conventional metaphors in the text.
+
+Guidelines:
+
+Check if the literal meaning and contextual meaning of the phrases differs
+If yes, confirm the metaphorical meaning is known in dictionaries.
+
+Steps:
+
+Learn: Learn from given examples.
+Read: Based on the learning, understand the input text's message.
+Find: Look for metaphors in the input text.
+Check: Use a dictionary to confirm.
+List: Write down all words.
+Mark: Add ':1' to any conventional metaphor.
+
+Example1: ""in a relationship""
+in:1
+a
+relationship
+
+Input: ""Time flies""
+
+Output:
+List all words. Go through the steps, If a word is a usual metaphor, add ':1' after it.Only output results for Mark.",manual+ChatGPT4
+25,Revised from manual annotation process,"
+To ensure the model learns from a provided example before performing the task, you can prepend the example to the instructions. Here's how you might structure it:
+
+Role: Conventional Metaphor Detector
+
+Task Instructions:
+Perform metaphor detection on the provided text using the following steps:
+
+Contextual Analysis: Understand the contextual meaning of every word in the text.
+Tokenization: Split the text into individual tokens using space as a delimiter.
+Metaphor Identification:
+For each token, compare its contextual meaning to its basic meaning related to physical motion, feeling, or its historically older significance.
+If the contextual meaning deviates from the basic meaning, label it as a conventional metaphor with ""1"".
+If not, consider it as either non-metaphoric or a novel metaphor and leave it unlabeled.
+Output Formatting:
+Present each token on a separate line.
+Tokens identified as conventional metaphors should be formatted as ""token:1"".
+Here is the text for labeling: {text}
+
+Note: The final output should only display the results of the fourth step.","
+To ensure the model learns from a provided example before performing the task, you can prepend the example to the instructions. Here's how you might structure it:
+
+Role: Conventional Metaphor Detector
+
+Example:
+Given Text: ""The world is a stage.""
+Output:
+The
+world:1
+is
+a
+stage:1
+Task Instructions:
+Perform metaphor detection on the provided text using the following steps:
+
+Contextual Analysis: Understand the contextual meaning of every word in the text.
+Tokenization: Split the text into individual tokens using space as a delimiter.
+Metaphor Identification:
+For each token, compare its contextual meaning to its basic meaning related to physical motion, feeling, or its historically older significance.
+If the contextual meaning deviates from the basic meaning, label it as a conventional metaphor with ""1"".
+If not, consider it as either non-metaphoric or a novel metaphor and leave it unlabeled.
+Output Formatting:
+Present each token on a separate line.
+Tokens identified as conventional metaphors should be formatted as ""token:1"".
+Here is the text for labeling: {text}
+
+Note: The final output should only display the results of the fourth step.",manual+ChatGPT4
