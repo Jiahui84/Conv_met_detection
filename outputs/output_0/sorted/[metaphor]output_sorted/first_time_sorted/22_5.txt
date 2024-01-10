@@ -1,0 +1,194 @@
+1. rule
+2. ambition
+3. rule:1
+4. ambition:1
+5. collapsed
+6. collapsed:1
+
+1. anti-racism
+2. anti-sexism
+3. naturally
+4. come
+5. naturally:1
+6. come:1
+
+1. heap
+2. visited
+3. seems
+4. worse
+5. heap:1
+6. visited:1
+7. seems:1
+8. worse:1
+
+1. thirst
+2. satisfied
+3. unquenching
+4. drink
+5. thirst:1
+6. satisfied:1
+7. unquenching:1
+
+1. quenching
+2. beer
+3. quenching:1
+
+1. waiting
+2. anticipation
+3. waiting:1
+4. anticipation:1
+
+1. successful
+2. bid
+3. made
+4. higher
+5. prior
+6. offer
+7. turned+down
+8. successful:1
+9. bid:1
+10. made:1
+11. turned+down:1
+
+1. relegated
+2. history
+3. books
+4. relegated:1
+
+1. own
+2. vegetable
+3. garden
+4. chickens
+5. ducks
+6. sheep
+7. cows
+
+1. pleased
+2. style
+3. evolved
+4. treatment
+5. humanised
+6. industrial
+7. forms
+8. denying
+9. function
+10. pleased:1
+11. style:1
+12. evolved:1
+13. treatment:1
+14. humanised:1
+15. denying:1
+
+1. routine
+2. exercise
+3. extending
+4. borrowing+power
+5. bogged+down
+6. wrangling
+7. legislative
+8. initiatives
+9. wanted
+10. attach
+11. bill
+12. routine:1
+13. exercise:1
+14. extending:1
+15. bogged+down:1
+16. wrangling:1
+17. attach:1
+
+1. gone
+2. wrong
+3. gone:1
+4. wrong:1
+
+1. confident
+
+1. structure
+2. developing
+3. national
+4. authority
+5. diffuse
+6. prevent
+7. destroyed
+8. single
+9. sweep
+10. arrests
+11. coherent
+12. allow
+13. existence
+14. unified
+15. resistance
+16. strategy
+17. structure:1
+18. diffuse:1
+19. prevent:1
+20. destroyed:1
+21. sweep:1
+22. coherent:1
+23. allow:1
+24. existence:1
+25. unified:1
+26. resistance:1
+27. strategy:1
+
+1. struggling
+2. shake+off
+3. authority
+4. construct
+5. struggling:1
+6. shake+off:1
+7. construct:1
+
+1. interspersed
+2. fanciful
+3. grimacing
+4. masks
+5. weird
+6. animals
+7. exuberant
+8. abstract
+9. patterns
+10. interspersed:1
+11. fanciful:1
+12. grimacing:1
+13. weird:1
+14. exuberant:1
+15. abstract:1
+
+1. built
+2. Ridges
+3. call
+4. locally
+5. slum
+6. clearance
+7. project
+8. built:1
+9. call:1
+10. slum:1
+11. clearance:1
+12. project:1
+
+1. knew
+2. continued
+3. meaning
+4. knew:1
+5. continued:1
+6. meaning:1
+
+1. results
+2. exceeded
+3. expectations
+4. results:1
+5. exceeded:1
+
+1. suggested
+2. need
+3. look
+4. system
+5. closely
+6. suggested:1
+7. need:1
+8. look:1
+9. system:1
+10. closely:1
