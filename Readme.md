@@ -64,3 +64,17 @@ csv:
 - csv: evalutaion results for every variation of prompt and every prompt for three-time experiment, and average results of the three-time experiment
 
 More folders will be created for 1-shot, 5-shot and 10-shot (output_1, output_5, output_10)
+
+##Instruction
+If want to get the classification report and TN TP FN FP, you can locate the codes folder and run "the Get_classification_report.py" with lines below:
+
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(conventional)*_output_sorted.csv" conventional_results.log
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(lexicalized)*_output_sorted.csv" lexicalized_results.log
+
+(modify codes according to the markdowns in the script)
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(metaphor)*_output_sorted.csv" metaphor_results.log
+
+(modify codes according to the markdowns in the script)
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(metNVAJ)*_output_sorted.csv" metNVAJ_results.log
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(conNVAJ)*_output_sorted.csv" conNVAJ_results.log
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(lexiNVAJ)*_output_sorted.csv" lexiNVAJ_results.log
