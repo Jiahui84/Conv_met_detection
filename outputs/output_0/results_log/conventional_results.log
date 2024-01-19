@@ -1,0 +1,900 @@
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 38, True Negatives: 3457, False Positives: 25, False Negatives: 585
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.06      0.11       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.53      0.51      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_2
+True Positives: 36, True Negatives: 3460, False Positives: 22, False Negatives: 587
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.62      0.06      0.11       623
+
+    accuracy                           0.85      4105
+   macro avg       0.74      0.53      0.51      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_3
+True Positives: 49, True Negatives: 3446, False Positives: 36, False Negatives: 574
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.58      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.53      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_4
+True Positives: 44, True Negatives: 3439, False Positives: 43, False Negatives: 579
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.51      0.07      0.12       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.52      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3469, False Positives: 13, False Negatives: 594
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92      3482
+           1       0.69      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.77      0.52      0.50      4105
+weighted avg       0.83      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_6
+True Positives: 37, True Negatives: 3448, False Positives: 34, False Negatives: 586
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.52      0.06      0.11       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.52      0.51      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_7
+True Positives: 79, True Negatives: 3408, False Positives: 74, False Negatives: 544
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.52      0.13      0.20       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.55      0.56      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_8
+True Positives: 57, True Negatives: 3438, False Positives: 44, False Negatives: 566
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.09      0.16       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_9
+True Positives: 43, True Negatives: 3441, False Positives: 41, False Negatives: 580
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.51      0.07      0.12       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.52      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 66, True Negatives: 3442, False Positives: 40, False Negatives: 557
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.62      0.11      0.18       623
+
+    accuracy                           0.85      4105
+   macro avg       0.74      0.55      0.55      4105
+weighted avg       0.82      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_11
+True Positives: 48, True Negatives: 3449, False Positives: 33, False Negatives: 575
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.59      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.53      0.53      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_12
+True Positives: 47, True Negatives: 3442, False Positives: 40, False Negatives: 576
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.54      0.08      0.13       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.53      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_13
+True Positives: 23, True Negatives: 3463, False Positives: 19, False Negatives: 600
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.55      0.04      0.07       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.52      0.49      4105
+weighted avg       0.81      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_14
+True Positives: 72, True Negatives: 3400, False Positives: 82, False Negatives: 551
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.47      0.12      0.19       623
+
+    accuracy                           0.85      4105
+   macro avg       0.66      0.55      0.55      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_15
+True Positives: 71, True Negatives: 3412, False Positives: 70, False Negatives: 552
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.50      0.11      0.19       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.55      0.55      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_16
+True Positives: 52, True Negatives: 3447, False Positives: 35, False Negatives: 571
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.08      0.15       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.54      0.53      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_17
+True Positives: 77, True Negatives: 3418, False Positives: 64, False Negatives: 546
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.55      0.12      0.20       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.55      0.56      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_18
+True Positives: 44, True Negatives: 3446, False Positives: 36, False Negatives: 579
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.55      0.07      0.13       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.53      0.52      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_19
+True Positives: 78, True Negatives: 3403, False Positives: 79, False Negatives: 545
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.50      0.13      0.20       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.55      0.56      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_20
+True Positives: 61, True Negatives: 3435, False Positives: 47, False Negatives: 562
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 87, True Negatives: 3393, False Positives: 89, False Negatives: 536
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.92      3482
+           1       0.49      0.14      0.22       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.56      0.57      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 114, True Negatives: 3198, False Positives: 284, False Negatives: 509
+              precision    recall  f1-score   support
+
+           0       0.86      0.92      0.89      3482
+           1       0.29      0.18      0.22       623
+
+    accuracy                           0.81      4105
+   macro avg       0.57      0.55      0.56      4105
+weighted avg       0.78      0.81      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_23
+True Positives: 94, True Negatives: 3388, False Positives: 94, False Negatives: 529
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.92      3482
+           1       0.50      0.15      0.23       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.56      0.57      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_24
+True Positives: 59, True Negatives: 3429, False Positives: 53, False Negatives: 564
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.53      0.09      0.16       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)first_time_output_sorted.csv, Label Column: label_25
+True Positives: 95, True Negatives: 3363, False Positives: 119, False Negatives: 528
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.44      0.15      0.23       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.56      0.57      4105
+weighted avg       0.80      0.84      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 31, True Negatives: 3466, False Positives: 16, False Negatives: 592
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92      3482
+           1       0.66      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.76      0.52      0.51      4105
+weighted avg       0.82      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_2
+True Positives: 47, True Negatives: 3451, False Positives: 31, False Negatives: 576
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.08      0.13       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.53      0.53      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_3
+True Positives: 65, True Negatives: 3424, False Positives: 58, False Negatives: 558
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.53      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.54      0.55      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_4
+True Positives: 57, True Negatives: 3449, False Positives: 33, False Negatives: 566
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.63      0.09      0.16       623
+
+    accuracy                           0.85      4105
+   macro avg       0.75      0.54      0.54      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 27, True Negatives: 3468, False Positives: 14, False Negatives: 596
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92      3482
+           1       0.66      0.04      0.08       623
+
+    accuracy                           0.85      4105
+   macro avg       0.76      0.52      0.50      4105
+weighted avg       0.82      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_6
+True Positives: 35, True Negatives: 3448, False Positives: 34, False Negatives: 588
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.51      0.06      0.10       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.52      0.51      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_7
+True Positives: 86, True Negatives: 3405, False Positives: 77, False Negatives: 537
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.53      0.14      0.22       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.56      0.57      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_8
+True Positives: 55, True Negatives: 3419, False Positives: 63, False Negatives: 568
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.47      0.09      0.15       623
+
+    accuracy                           0.85      4105
+   macro avg       0.66      0.54      0.53      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_9
+True Positives: 54, True Negatives: 3428, False Positives: 54, False Negatives: 569
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.50      0.09      0.15       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.54      0.53      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 60, True Negatives: 3432, False Positives: 50, False Negatives: 563
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.55      0.10      0.16       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_11
+True Positives: 43, True Negatives: 3451, False Positives: 31, False Negatives: 580
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.58      0.07      0.12       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.53      0.52      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_12
+True Positives: 51, True Negatives: 3441, False Positives: 41, False Negatives: 572
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.55      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.54      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_13
+True Positives: 26, True Negatives: 3457, False Positives: 25, False Negatives: 597
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.51      0.04      0.08       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.52      0.50      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_14
+True Positives: 64, True Negatives: 3401, False Positives: 81, False Negatives: 559
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.44      0.10      0.17       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.54      0.54      4105
+weighted avg       0.80      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_15
+True Positives: 64, True Negatives: 3406, False Positives: 76, False Negatives: 559
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.46      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.66      0.54      0.54      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_16
+True Positives: 46, True Negatives: 3446, False Positives: 36, False Negatives: 577
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.07      0.13       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.53      0.52      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_17
+True Positives: 63, True Negatives: 3420, False Positives: 62, False Negatives: 560
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.50      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_18
+True Positives: 39, True Negatives: 3449, False Positives: 33, False Negatives: 584
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.54      0.06      0.11       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.53      0.52      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_19
+True Positives: 80, True Negatives: 3403, False Positives: 79, False Negatives: 543
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.50      0.13      0.20       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.55      0.56      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_20
+True Positives: 105, True Negatives: 3362, False Positives: 120, False Negatives: 518
+              precision    recall  f1-score   support
+
+           0       0.87      0.97      0.91      3482
+           1       0.47      0.17      0.25       623
+
+    accuracy                           0.84      4105
+   macro avg       0.67      0.57      0.58      4105
+weighted avg       0.81      0.84      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 82, True Negatives: 3414, False Positives: 68, False Negatives: 541
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.55      0.13      0.21       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.56      0.57      4105
+weighted avg       0.82      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 63, True Negatives: 3415, False Positives: 67, False Negatives: 560
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.48      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.67      0.54      0.54      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_23
+True Positives: 80, True Negatives: 3389, False Positives: 93, False Negatives: 543
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.46      0.13      0.20       623
+
+    accuracy                           0.85      4105
+   macro avg       0.66      0.55      0.56      4105
+weighted avg       0.80      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_24
+True Positives: 247, True Negatives: 2330, False Positives: 1152, False Negatives: 376
+              precision    recall  f1-score   support
+
+           0       0.86      0.67      0.75      3482
+           1       0.18      0.40      0.24       623
+
+    accuracy                           0.63      4105
+   macro avg       0.52      0.53      0.50      4105
+weighted avg       0.76      0.63      0.68      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)second_time_output_sorted.csv, Label Column: label_25
+True Positives: 99, True Negatives: 3379, False Positives: 103, False Negatives: 524
+              precision    recall  f1-score   support
+
+           0       0.87      0.97      0.92      3482
+           1       0.49      0.16      0.24       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.56      0.58      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 34, True Negatives: 3463, False Positives: 19, False Negatives: 589
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.64      0.05      0.10       623
+
+    accuracy                           0.85      4105
+   macro avg       0.75      0.52      0.51      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_2
+True Positives: 41, True Negatives: 3459, False Positives: 23, False Negatives: 582
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.64      0.07      0.12       623
+
+    accuracy                           0.85      4105
+   macro avg       0.75      0.53      0.52      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_3
+True Positives: 100, True Negatives: 3228, False Positives: 254, False Negatives: 523
+              precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89      3482
+           1       0.28      0.16      0.20       623
+
+    accuracy                           0.81      4105
+   macro avg       0.57      0.54      0.55      4105
+weighted avg       0.77      0.81      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_4
+True Positives: 56, True Negatives: 3444, False Positives: 38, False Negatives: 567
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.09      0.16       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.54      0.54      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 19, True Negatives: 3466, False Positives: 16, False Negatives: 604
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92      3482
+           1       0.54      0.03      0.06       623
+
+    accuracy                           0.85      4105
+   macro avg       0.70      0.51      0.49      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_6
+True Positives: 39, True Negatives: 3445, False Positives: 37, False Negatives: 584
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.51      0.06      0.11       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.51      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_7
+True Positives: 95, True Negatives: 3379, False Positives: 103, False Negatives: 528
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.48      0.15      0.23       623
+
+    accuracy                           0.85      4105
+   macro avg       0.67      0.56      0.57      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_8
+True Positives: 65, True Negatives: 3431, False Positives: 51, False Negatives: 558
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.10      0.18       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.54      0.55      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_9
+True Positives: 49, True Negatives: 3436, False Positives: 46, False Negatives: 574
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.52      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.53      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 65, True Negatives: 3433, False Positives: 49, False Negatives: 558
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.57      0.10      0.18       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.55      0.55      4105
+weighted avg       0.82      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_11
+True Positives: 49, True Negatives: 3444, False Positives: 38, False Negatives: 574
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.53      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_12
+True Positives: 49, True Negatives: 3437, False Positives: 45, False Negatives: 574
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.52      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.53      0.53      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_13
+True Positives: 25, True Negatives: 3464, False Positives: 18, False Negatives: 598
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.58      0.04      0.08       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.52      0.50      4105
+weighted avg       0.81      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_14
+True Positives: 63, True Negatives: 3432, False Positives: 50, False Negatives: 560
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.56      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_15
+True Positives: 67, True Negatives: 3402, False Positives: 80, False Negatives: 556
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.46      0.11      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.66      0.54      0.54      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_16
+True Positives: 49, True Negatives: 3434, False Positives: 48, False Negatives: 574
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.51      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.53      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_17
+True Positives: 79, True Negatives: 3420, False Positives: 62, False Negatives: 544
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.56      0.13      0.21       623
+
+    accuracy                           0.85      4105
+   macro avg       0.71      0.55      0.56      4105
+weighted avg       0.82      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_18
+True Positives: 30, True Negatives: 3456, False Positives: 26, False Negatives: 593
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.54      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.52      0.50      4105
+weighted avg       0.81      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_19
+True Positives: 80, True Negatives: 3407, False Positives: 75, False Negatives: 543
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.52      0.13      0.21       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.55      0.56      4105
+weighted avg       0.81      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_20
+True Positives: 63, True Negatives: 3423, False Positives: 59, False Negatives: 560
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.52      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.54      0.54      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3422, False Positives: 60, False Negatives: 540
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.58      0.13      0.22       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.56      0.57      4105
+weighted avg       0.82      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 43, True Negatives: 3443, False Positives: 39, False Negatives: 580
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.52      0.07      0.12       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.53      0.52      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_23
+True Positives: 115, True Negatives: 3350, False Positives: 132, False Negatives: 508
+              precision    recall  f1-score   support
+
+           0       0.87      0.96      0.91      3482
+           1       0.47      0.18      0.26       623
+
+    accuracy                           0.84      4105
+   macro avg       0.67      0.57      0.59      4105
+weighted avg       0.81      0.84      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_24
+True Positives: 202, True Negatives: 2693, False Positives: 789, False Negatives: 421
+              precision    recall  f1-score   support
+
+           0       0.86      0.77      0.82      3482
+           1       0.20      0.32      0.25       623
+
+    accuracy                           0.71      4105
+   macro avg       0.53      0.55      0.53      4105
+weighted avg       0.76      0.71      0.73      4105
+
+
+File: ../outputs/output_0/csv/sorted\(conventional)third_time_output_sorted.csv, Label Column: label_25
+True Positives: 93, True Negatives: 3359, False Positives: 123, False Negatives: 530
+              precision    recall  f1-score   support
+
+           0       0.86      0.96      0.91      3482
+           1       0.43      0.15      0.22       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.56      0.57      4105
+weighted avg       0.80      0.84      0.81      4105
+
+
