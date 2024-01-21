@@ -17,8 +17,14 @@ The whole prompt set and conventioanl metaphor corpus are in "data folder".
 There are altogether three folders:
 
 ## codes
+
 Preprocess_corpus.ipynb: Pre-processing corpus for model labelling and prompts premutation for model use
+
 Running_through_API.ipynb: Run sentences for labelling through the models with different prompts, and post-process the outputs for evaluation
+
+Evalutaion.ipynb: (to be decided)
+
+Get_classification_report.py: Classification reports on seperate classes
 
 ## data
 
@@ -61,15 +67,22 @@ csv:
 
 - sorted: sort out the model outputs especially the tokenization problems so they can align to the manual word list
 
-- csv: evalutaion results for every variation of prompt and every prompt for three-time experiment, and average results of the three-time experiment
+- csv: 
 
-More folders will be created for 1-shot, 5-shot and 10-shot (output_1, output_5, output_10)
+class_0: classification results on non conventional metaphors  of three-time experiment, and average results of the three-time experiment
+
+class_1: classification results on conventional metaphors of  three-time experiment, and average results of the three-time experiment
+
+general: evalutaion results for every variation of prompt and every prompt for three-time experiment, and average results of the three-time experiment
+
+(More folders will be created for 1-shot, 5-shot and 10-shot (output_1, output_5, output_10))
 
 ##Instruction
 If want to get the classification report and TN TP FN FP, you can locate the codes folder and run "the Get_classification_report.py" with lines below:
 
 python Get_classification_report.py "../outputs/output_0/csv/sorted/(conventional)*_output_sorted.csv" conventional_results.log
 python Get_classification_report.py "../outputs/output_0/csv/sorted/(lexicalized)*_output_sorted.csv" lexicalized_results.log
+python Get_classification_report.py "../outputs/output_0/csv/sorted/(secret)*_output_sorted.csv" secret_results.log
 
 (modify codes according to the markdowns in the script)
 python Get_classification_report.py "../outputs/output_0/csv/sorted/(metaphor)*_output_sorted.csv" metaphor_results.log

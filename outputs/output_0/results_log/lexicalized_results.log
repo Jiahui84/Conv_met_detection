@@ -1,0 +1,3017 @@
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+              precision    recall  f1-score   support
+
+           0       0.86      0.96      0.91      3482
+           1       0.30      0.09      0.14       623
+
+    accuracy                           0.83      4105
+   macro avg       0.58      0.53      0.52      4105
+weighted avg       0.77      0.83      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3463, False Positives: 19, False Negatives: 594
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.60      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.52      0.50      4105
+weighted avg       0.82      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 50, True Negatives: 3431, False Positives: 51, False Negatives: 573
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.50      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.53      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 48, True Negatives: 3450, False Positives: 32, False Negatives: 575
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.53      0.53      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 75, True Negatives: 3403, False Positives: 79, False Negatives: 548
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.49      0.12      0.19       623
+
+    accuracy                           0.85      4105
+   macro avg       0.67      0.55      0.55      4105
+weighted avg       0.80      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 85, True Negatives: 3351, False Positives: 131, False Negatives: 538
+              precision    recall  f1-score   support
+
+           0       0.86      0.96      0.91      3482
+           1       0.39      0.14      0.20       623
+
+    accuracy                           0.84      4105
+   macro avg       0.63      0.55      0.56      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 30, True Negatives: 3460, False Positives: 22, False Negatives: 593
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.58      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.52      0.50      4105
+weighted avg       0.81      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 65, True Negatives: 3420, False Positives: 62, False Negatives: 558
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.51      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.54      0.55      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 71, True Negatives: 3256, False Positives: 226, False Negatives: 552
+              precision    recall  f1-score   support
+
+           0       0.86      0.94      0.89      3482
+           1       0.24      0.11      0.15       623
+
+    accuracy                           0.81      4105
+   macro avg       0.55      0.52      0.52      4105
+weighted avg       0.76      0.81      0.78      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 70, True Negatives: 3397, False Positives: 85, False Negatives: 553
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.45      0.11      0.18       623
+
+    accuracy                           0.84      4105
+   macro avg       0.66      0.54      0.55      4105
+weighted avg       0.80      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 76, True Negatives: 3382, False Positives: 100, False Negatives: 547
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.43      0.12      0.19       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.55      0.55      4105
+weighted avg       0.80      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 26, True Negatives: 3458, False Positives: 24, False Negatives: 597
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.52      0.04      0.08       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.52      0.50      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 57, True Negatives: 3403, False Positives: 79, False Negatives: 566
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.42      0.09      0.15       623
+
+    accuracy                           0.84      4105
+   macro avg       0.64      0.53      0.53      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 50, True Negatives: 3417, False Positives: 65, False Negatives: 573
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.43      0.08      0.14       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.53      0.53      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3381, False Positives: 101, False Negatives: 540
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.45      0.13      0.21       623
+
+    accuracy                           0.84      4105
+   macro avg       0.66      0.55      0.56      4105
+weighted avg       0.80      0.84      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+              precision    recall  f1-score   support
+
+           0       0.86      0.96      0.91      3482
+           1       0.30      0.09      0.14       623
+
+    accuracy                           0.83      4105
+   macro avg       0.58      0.53      0.52      4105
+weighted avg       0.77      0.83      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3463, False Positives: 19, False Negatives: 594
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.60      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.52      0.50      4105
+weighted avg       0.82      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 50, True Negatives: 3431, False Positives: 51, False Negatives: 573
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.50      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.68      0.53      0.53      4105
+weighted avg       0.80      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 48, True Negatives: 3450, False Positives: 32, False Negatives: 575
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92      3482
+           1       0.60      0.08      0.14       623
+
+    accuracy                           0.85      4105
+   macro avg       0.73      0.53      0.53      4105
+weighted avg       0.82      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 75, True Negatives: 3403, False Positives: 79, False Negatives: 548
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.49      0.12      0.19       623
+
+    accuracy                           0.85      4105
+   macro avg       0.67      0.55      0.55      4105
+weighted avg       0.80      0.85      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 85, True Negatives: 3351, False Positives: 131, False Negatives: 538
+              precision    recall  f1-score   support
+
+           0       0.86      0.96      0.91      3482
+           1       0.39      0.14      0.20       623
+
+    accuracy                           0.84      4105
+   macro avg       0.63      0.55      0.56      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 30, True Negatives: 3460, False Positives: 22, False Negatives: 593
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.58      0.05      0.09       623
+
+    accuracy                           0.85      4105
+   macro avg       0.72      0.52      0.50      4105
+weighted avg       0.81      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 65, True Negatives: 3420, False Positives: 62, False Negatives: 558
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92      3482
+           1       0.51      0.10      0.17       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.54      0.55      4105
+weighted avg       0.81      0.85      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 71, True Negatives: 3256, False Positives: 226, False Negatives: 552
+              precision    recall  f1-score   support
+
+           0       0.86      0.94      0.89      3482
+           1       0.24      0.11      0.15       623
+
+    accuracy                           0.81      4105
+   macro avg       0.55      0.52      0.52      4105
+weighted avg       0.76      0.81      0.78      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 70, True Negatives: 3397, False Positives: 85, False Negatives: 553
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.45      0.11      0.18       623
+
+    accuracy                           0.84      4105
+   macro avg       0.66      0.54      0.55      4105
+weighted avg       0.80      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 76, True Negatives: 3382, False Positives: 100, False Negatives: 547
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.43      0.12      0.19       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.55      0.55      4105
+weighted avg       0.80      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 26, True Negatives: 3458, False Positives: 24, False Negatives: 597
+              precision    recall  f1-score   support
+
+           0       0.85      0.99      0.92      3482
+           1       0.52      0.04      0.08       623
+
+    accuracy                           0.85      4105
+   macro avg       0.69      0.52      0.50      4105
+weighted avg       0.80      0.85      0.79      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 57, True Negatives: 3403, False Positives: 79, False Negatives: 566
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.42      0.09      0.15       623
+
+    accuracy                           0.84      4105
+   macro avg       0.64      0.53      0.53      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 50, True Negatives: 3417, False Positives: 65, False Negatives: 573
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.91      3482
+           1       0.43      0.08      0.14       623
+
+    accuracy                           0.84      4105
+   macro avg       0.65      0.53      0.53      4105
+weighted avg       0.79      0.84      0.80      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3381, False Positives: 101, False Negatives: 540
+              precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      3482
+           1       0.45      0.13      0.21       623
+
+    accuracy                           0.84      4105
+   macro avg       0.66      0.55      0.56      4105
+weighted avg       0.80      0.84      0.81      4105
+
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3463, False Positives: 19, False Negatives: 594
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 50, True Negatives: 3431, False Positives: 51, False Negatives: 573
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 48, True Negatives: 3450, False Positives: 32, False Negatives: 575
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 75, True Negatives: 3403, False Positives: 79, False Negatives: 548
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 85, True Negatives: 3351, False Positives: 131, False Negatives: 538
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 30, True Negatives: 3460, False Positives: 22, False Negatives: 593
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 65, True Negatives: 3420, False Positives: 62, False Negatives: 558
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 71, True Negatives: 3256, False Positives: 226, False Negatives: 552
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 70, True Negatives: 3397, False Positives: 85, False Negatives: 553
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 76, True Negatives: 3382, False Positives: 100, False Negatives: 547
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 26, True Negatives: 3458, False Positives: 24, False Negatives: 597
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 57, True Negatives: 3403, False Positives: 79, False Negatives: 566
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 50, True Negatives: 3417, False Positives: 65, False Negatives: 573
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3381, False Positives: 101, False Negatives: 540
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3463, False Positives: 19, False Negatives: 594
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 50, True Negatives: 3431, False Positives: 51, False Negatives: 573
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 48, True Negatives: 3450, False Positives: 32, False Negatives: 575
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 75, True Negatives: 3403, False Positives: 79, False Negatives: 548
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 85, True Negatives: 3351, False Positives: 131, False Negatives: 538
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 30, True Negatives: 3460, False Positives: 22, False Negatives: 593
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 65, True Negatives: 3420, False Positives: 62, False Negatives: 558
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 71, True Negatives: 3256, False Positives: 226, False Negatives: 552
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 70, True Negatives: 3397, False Positives: 85, False Negatives: 553
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 76, True Negatives: 3382, False Positives: 100, False Negatives: 547
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 26, True Negatives: 3458, False Positives: 24, False Negatives: 597
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 57, True Negatives: 3403, False Positives: 79, False Negatives: 566
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 50, True Negatives: 3417, False Positives: 65, False Negatives: 573
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3381, False Positives: 101, False Negatives: 540
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+True Positives: 56, True Negatives: 3349, False Positives: 133, False Negatives: 567
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+True Positives: 29, True Negatives: 3463, False Positives: 19, False Negatives: 594
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+True Positives: 50, True Negatives: 3431, False Positives: 51, False Negatives: 573
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+True Positives: 48, True Negatives: 3450, False Positives: 32, False Negatives: 575
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+True Positives: 75, True Negatives: 3403, False Positives: 79, False Negatives: 548
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+True Positives: 85, True Negatives: 3351, False Positives: 131, False Negatives: 538
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+True Positives: 30, True Negatives: 3460, False Positives: 22, False Negatives: 593
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+True Positives: 65, True Negatives: 3420, False Positives: 62, False Negatives: 558
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+True Positives: 71, True Negatives: 3256, False Positives: 226, False Negatives: 552
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+True Positives: 70, True Negatives: 3397, False Positives: 85, False Negatives: 553
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+True Positives: 76, True Negatives: 3382, False Positives: 100, False Negatives: 547
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+True Positives: 26, True Negatives: 3458, False Positives: 24, False Negatives: 597
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+True Positives: 57, True Negatives: 3403, False Positives: 79, False Negatives: 566
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+True Positives: 50, True Negatives: 3417, False Positives: 65, False Negatives: 573
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+True Positives: 83, True Negatives: 3381, False Positives: 101, False Negatives: 540
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8552093973442288,
+        "recall": 0.9618035611717404,
+        "f1-score": 0.9053798323871316,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.2962962962962963,
+        "recall": 0.0898876404494382,
+        "f1-score": 0.13793103448275862,
+        "support": 623.0
+    },
+    "accuracy": 0.8294762484774665,
+    "macro avg": {
+        "precision": 0.5757528468202626,
+        "recall": 0.5258456008105893,
+        "f1-score": 0.5216554334349451,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7703853140426791,
+        "recall": 0.8294762484774665,
+        "f1-score": 0.7889070915602315,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8535863938871087,
+        "recall": 0.9945433658816772,
+        "f1-score": 0.9186894813635761,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6041666666666666,
+        "recall": 0.04654895666131621,
+        "f1-score": 0.08643815201192251,
+        "support": 623.0
+    },
+    "accuracy": 0.8506699147381243,
+    "macro avg": {
+        "precision": 0.7288765302768876,
+        "recall": 0.5205461612714968,
+        "f1-score": 0.5025638166877493,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8157329249325812,
+        "recall": 0.8506699147381243,
+        "f1-score": 0.792381910550889,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8568931068931069,
+        "recall": 0.985353245261344,
+        "f1-score": 0.9166444028853861,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.49504950495049505,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13812154696132597,
+        "support": 623.0
+    },
+    "accuracy": 0.8479902557856273,
+    "macro avg": {
+        "precision": 0.675971305921801,
+        "recall": 0.5328050335455998,
+        "f1-score": 0.5273829749233561,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8019775005568713,
+        "recall": 0.8479902557856273,
+        "f1-score": 0.7984909950313813,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8571428571428571,
+        "recall": 0.9908098793796669,
+        "f1-score": 0.9191421340082588,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.6,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.13655761024182075,
+        "support": 623.0
+    },
+    "accuracy": 0.8521315468940317,
+    "macro avg": {
+        "precision": 0.7285714285714285,
+        "recall": 0.5339282141681642,
+        "f1-score": 0.5278498721250398,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8181172785801287,
+        "recall": 0.8521315468940317,
+        "f1-score": 0.8003723025085047,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613009364717793,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9156464415444638,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.487012987012987,
+        "recall": 0.12038523274478331,
+        "f1-score": 0.19305019305019308,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6741569617423832,
+        "recall": 0.5488485612316679,
+        "f1-score": 0.5543483172973285,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8044966995624425,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8059807989593406,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8616610953972743,
+        "recall": 0.9623779437105112,
+        "f1-score": 0.9092389092389093,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.39351851851851855,
+        "recall": 0.13643659711075443,
+        "f1-score": 0.2026221692491061,
+        "support": 623.0
+    },
+    "accuracy": 0.8370280146163216,
+    "macro avg": {
+        "precision": 0.6275898069578965,
+        "recall": 0.5494072704106329,
+        "f1-score": 0.5559305392440077,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7906129040707299,
+        "recall": 0.8370280146163216,
+        "f1-score": 0.8019984149603107,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8536886257093511,
+        "recall": 0.9936817920735209,
+        "f1-score": 0.9183808891838089,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5769230769230769,
+        "recall": 0.048154093097913325,
+        "f1-score": 0.08888888888888889,
+        "support": 623.0
+    },
+    "accuracy": 0.8501827040194885,
+    "macro avg": {
+        "precision": 0.715305851316214,
+        "recall": 0.5209179425857171,
+        "f1-score": 0.5036348890363489,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.811684987001958,
+        "recall": 0.8501827040194885,
+        "f1-score": 0.7924920910878929,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8597285067873304,
+        "recall": 0.9821941412981046,
+        "f1-score": 0.9168900804289545,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5118110236220472,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17333333333333334,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6857697652046888,
+        "recall": 0.5432640048384584,
+        "f1-score": 0.545111706881144,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8069264137271668,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8040433439026275,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8550420168067226,
+        "recall": 0.9350947731188972,
+        "f1-score": 0.893278463648834,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.23905723905723905,
+        "recall": 0.11396468699839486,
+        "f1-score": 0.15434782608695652,
+        "support": 623.0
+    },
+    "accuracy": 0.8104750304506699,
+    "macro avg": {
+        "precision": 0.5470496279319809,
+        "recall": 0.524529730058646,
+        "f1-score": 0.5238131448678953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7615563854941945,
+        "recall": 0.8104750304506699,
+        "f1-score": 0.7811338139043639,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.86,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9141550053821313,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45161290322580644,
+        "recall": 0.11235955056179775,
+        "f1-score": 0.17994858611825193,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6558064516129032,
+        "recall": 0.5439741463320189,
+        "f1-score": 0.5470517957501917,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.798020667164355,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.802727332007857,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8607788241282769,
+        "recall": 0.9712808730614589,
+        "f1-score": 0.9126973417892322,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4318181818181818,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19023779724655818,
+        "support": 623.0
+    },
+    "accuracy": 0.8423873325213155,
+    "macro avg": {
+        "precision": 0.6462985029732293,
+        "recall": 0.5466356211214197,
+        "f1-score": 0.5514675695178952,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7956771237240894,
+        "recall": 0.8423873325213155,
+        "f1-score": 0.803052446235009,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8527743526510481,
+        "recall": 0.9931074095347502,
+        "f1-score": 0.9176064747246915,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.52,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07726597325408618,
+        "support": 623.0
+    },
+    "accuracy": 0.848721071863581,
+    "macro avg": {
+        "precision": 0.686387176325524,
+        "recall": 0.5174204784431375,
+        "f1-score": 0.4974362239893888,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.802270474039208,
+        "recall": 0.848721071863581,
+        "f1-score": 0.7900712414929771,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8573948097757622,
+        "recall": 0.9773118897185525,
+        "f1-score": 0.9134344383304255,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41911764705882354,
+        "recall": 0.09149277688603531,
+        "f1-score": 0.15019762845849802,
+        "support": 623.0
+    },
+    "accuracy": 0.8428745432399513,
+    "macro avg": {
+        "precision": 0.6382562284172929,
+        "recall": 0.5344023333022939,
+        "f1-score": 0.5318160333944617,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.790879177041864,
+        "recall": 0.8428745432399513,
+        "f1-score": 0.7976009346641135,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.856390977443609,
+        "recall": 0.9813325674899483,
+        "f1-score": 0.9146145610278372,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.43478260869565216,
+        "recall": 0.08025682182985554,
+        "f1-score": 0.13550135501355015,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6455867930696306,
+        "recall": 0.5307946946599019,
+        "f1-score": 0.5250579580206937,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7924051032097535,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.796371558020066,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexicalized)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8622800306044377,
+        "recall": 0.9709936817920736,
+        "f1-score": 0.9134134810212077,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.45108695652173914,
+        "recall": 0.1332263242375602,
+        "f1-score": 0.2057001239157373,
+        "support": 623.0
+    },
+    "accuracy": 0.8438489646772229,
+    "macro avg": {
+        "precision": 0.6566834935630884,
+        "recall": 0.5521100030148169,
+        "f1-score": 0.5595568024684725,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799874845426966,
+        "recall": 0.8438489646772229,
+        "f1-score": 0.8060065573971619,
+        "support": 4105.0
+    }
+}
+
