@@ -1,0 +1,45 @@
+﻿1-n shot,generation,prompt_num
+"Your task is to detect conventional metaphors. Proceed as follows:
+
+Analyze each sentence provided and write down each word separately, one word per row. Mark any conventional metaphorical word with with an IOB tagging schema. Use an empty row to separate word lists from different sentences.
+
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,4
+"A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. Your task will be to detect conventional metaphors within given sentences. 
+
+Please analyze the following sentences and output every word of each sentence,one word per row, with an IOB tagging schema to label any word that is part of a conventional metaphor. Use an empty row to separate word lists from different sentences:
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,17
+"Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines, process the following sentences. List every word from each sentence, one word per row, and mark conventional metaphorical words with an IOB tagging schema. Use an empty row to separate word lists from different sentences.
+
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,20
+"Objective: detect conventional metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Criteria for Conventional Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be conventional, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Detect words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each conventional metaphor with an IOB tagging schema.
+
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with conventional metaphorical words marked based on an IOB tagging schema. Use an empty row to separate word lists from different sentences. 
+
+Labels: {label}",manual+ChatGPT4,21

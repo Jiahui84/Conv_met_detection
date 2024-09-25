@@ -1,0 +1,217 @@
+Letter
+Policy :1
+politics :1
+Labour+Party :1
+Conference
+
+Letter
+dropped
+post
+President
+Socialist :1
+Republic :1
+Montenegro
+inviting
+funeral
+said
+John
+Kennedy
+Conservative+Party :1
+member
+lives
+Barking
+distant
+relative
+Nicholas
+
+response
+visual
+stimulus
+Thomson
+series
+musical :1
+portraits :1
+people
+Picasso
+Aaron
+Copland
+
+villages
+dying :1
+becoming
+suburbs
+dormitories
+people
+work
+sleep
+
+takes
+sorts
+
+phrase
+universal
+primacy :1
+spiritual :1
+meaning
+
+Liverpool
+dockers
+spokesman
+Transport
+General
+Workers
+Union
+admitted
+Drivers
+happy
+handling
+commodities
+lorry-driver
+idea
+handling
+docker
+consignment
+know
+
+Dr
+Slevin
+agreed
+beneficial
+concerned
+aspects
+therapies
+
+STEPHEN
+GOLD
+
+Dedham
+Hall
+booked
+try
+best
+bed-and-breakfast
+found
+miles
+Old
+Vicarage
+Higham
+Colchester
+
+loveliest
+mind
+Melford
+Hall
+charming
+octagonal
+Jacobean :1
+gatehouse
+reached
+avenue
+clipped
+yew
+trees
+high
+windows
+flooding
+octagon
+light
+fantasy :1
+ideal :1
+study
+
+told
+on-screen
+questioning
+programme
+skilfully :1
+structured
+give
+coherence :1
+lacked
+
+resulting
+corner
+Rhodes
+made
+fine
+save
+hurtling
+right
+deflect
+away
+Dixon
+rising
+shot
+
+trained
+artificial :1
+pitch
+days
+week
+done
+
+user
+tells
+analyst
+problems
+analyst
+decides
+terms
+user
+requires
+
+Entire
+departments
+set+up
+health
+foreign
+affairs
+agriculture
+trade
+finance
+education
+justice
+religion
+information
+social
+welfare
+
+Wriggling :1
+country
+D216
+Port-d'Envaux
+come
+chateaux
+18th-century
+Panloy
+flaking :1
+romantically :1
+away
+hillock
+overlooking
+bend
+Charente
+almost
+next
+door
+older
+moated
+Crazannes
+half-smothered
+amazing
+flamboyant :1
+Gothic :1
+carving
+
+core
+problem
+simple
+National
+invited
+New
+York
+November
+Kirov
+planning
+tour
+summer

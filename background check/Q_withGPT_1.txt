@@ -1,0 +1,32 @@
+1. Do you know what is conventional metaphor? Can you give me some examples?
+A conventional metaphor is a metaphorical expression that has become a fixed part of a language's vocabulary, so much so that its metaphorical nature is not always consciously recognized by speakers. It is typically used to conceptualize one thing in terms of another based on a perceived similarity or analogy and is understood by most speakers of the language. Examples include "time is money" (suggesting that time is valuable and should be managed as carefully as money) and "life is a journey" (implying that life is a process with a beginning, progression, and end).
+
+2. Do you know the relationship between conventional metaphor and metaphor?
+A conventional metaphor is a type of metaphor that is widely accepted and used within a language and culture. All conventional metaphors are metaphors, but not all metaphors are conventional. Metaphors are broader and include novel or creative metaphors that are not necessarily widely recognized or used.
+
+3. Do you know what is lexicalized metaphor? Can you give me some examples?
+A lexicalized metaphor is a metaphor that has been fully incorporated into the vocabulary of a language, often to the point where its metaphorical origin is no longer salient to speakers. These metaphors have become words or phrases with a meaning that is no longer directly tied to the original metaphorical comparison. Examples include "foot of the bed" (where "foot" is not literally a body part) or "to grasp an idea" (where "grasp" is not a physical action).
+
+4. Do you know the relationship between conventional metaphor and lexicalized metaphor?
+A conventional metaphor can become a lexicalized metaphor when it is used so frequently that it becomes a standard part of the language's lexicon and its metaphorical origin is forgotten or ignored. Thus, all lexicalized metaphors are conventional, but not all conventional metaphors are fully lexicalized.
+
+5. Do you know Metaphor Identification Procedure (MIP)?
+The Metaphor Identification Procedure (MIP) is a method developed by researchers to systematically identify metaphorical language in text. It involves checking whether the contextual meaning of a word is markedly different from its more basic, concrete meaning. If the word has a more abstract or less frequent meaning that cannot be understood from its more basic meaning alone, it is identified as a metaphor.
+
+6. Do you know Metaphor Identification Procedure VU University Amsterdam (MIPVU)?
+Metaphor Identification Procedure VU University Amsterdam (MIPVU) is an extension of MIP that provides a more detailed and rigorous method for identifying metaphors in texts. It includes specific guidelines and criteria for determining whether a word is used metaphorically, and it is designed to be applicable across different languages and genres of text.
+
+7. Do you know how to identify conventional metaphor?
+To identify conventional metaphors, one must be familiar with the language and culture in which the metaphor is used. It involves recognizing expressions that are widely accepted and understood within a community to conceptualize one domain in terms of another. An understanding of the basic, literal meanings of words and their abstract, metaphorical counterparts is necessary.
+
+8. Do you know the VU Amsterdam Metaphor Corpus (VUAMC)?
+The VU Amsterdam Metaphor Corpus (VUAMC) is a corpus of English texts that have been systematically analyzed to identify metaphors according to the MIPVU guidelines. It contains a wide variety of genres, including news texts, fiction, and academic texts, and is a valuable resource for metaphor research.
+
+9. Do you know deliberate metaphor?
+A deliberate metaphor is a metaphor used with the intention of making the listener or reader aware of the metaphorical nature of the expression. The speaker or writer uses such a metaphor to achieve a specific communicative or rhetorical effect, and the metaphor is meant to be noticed and reflected upon.
+
+10. Do you know the deliberate metaphor corpus?
+I am not aware of any specific "deliberate metaphor corpus" as of my knowledge cutoff date. However, researchers studying deliberate metaphors may compile their own corpora for analysis, or they may analyze existing corpora for instances of deliberate metaphor use.
+
+11. Do you know the relationship between deliberate metaphor, non-deliberate metaphor and novel metaphor, conventional metaphor?
+The relationship between deliberate metaphor, non-deliberate metaphor, novel metaphor, and conventional metaphor can be understood in terms of the speaker's intention and the familiarity of the metaphor. Deliberate metaphors are used intentionally for rhetorical effect and are often novel or less conventional. Non-deliberate metaphors may include conventional metaphors, which are used without specific rhetorical intent and may not be recognized as metaphorical due to their familiarity. Novel metaphors are new and creative, not yet conventionalized, and can be either deliberate or non-deliberate, depending on the speaker's intention.

@@ -1,0 +1,243 @@
+0-shot
+
+Prompt: label_18
+Accuracy: 0.8460
+F1 Score: 0.0858
+Precision: 0.3867
+Recall: 0.0483
+Detected Positives: 75
+True Positives: 29
+True Negatives: 3365
+False Positives: 46
+False Negatives: 572
+
+
+Prompt: label_4
+Accuracy: 0.8527
+F1 Score: 0.0894
+Precision: 0.6042
+Recall: 0.0483
+Detected Positives: 48
+True Positives: 29
+True Negatives: 3392
+False Positives: 19
+False Negatives: 572
+
+
+Prompt: label_21
+Accuracy: 0.8507
+F1 Score: 0.0938
+Precision: 0.5167
+Recall: 0.0516
+Detected Positives: 60
+True Positives: 31
+True Negatives: 3382
+False Positives: 29
+False Negatives: 570
+
+
+Prompt: label_17
+Accuracy: 0.8485
+F1 Score: 0.1214
+Precision: 0.4615
+Recall: 0.0699
+Detected Positives: 91
+True Positives: 42
+True Negatives: 3362
+False Positives: 49
+False Negatives: 559
+
+
+Prompt: label_20
+Accuracy: 0.8514
+F1 Score: 0.2032
+Precision: 0.5170
+Recall: 0.1265
+Detected Positives: 147
+True Positives: 76
+True Negatives: 3340
+False Positives: 71
+False Negatives: 525
+
+1-shot
+
+Prompt: label_18
+Accuracy: 0.8462
+F1 Score: 0.2373
+Precision: 0.4615
+Recall: 0.1597
+Detected Positives: 208
+True Positives: 96
+True Negatives: 3299
+False Positives: 112
+False Negatives: 505
+
+
+Prompt: label_4
+Accuracy: 0.8447
+F1 Score: 0.2261
+Precision: 0.4461
+Recall: 0.1514
+Detected Positives: 204
+True Positives: 91
+True Negatives: 3298
+False Positives: 113
+False Negatives: 510
+
+
+Prompt: label_21
+Accuracy: 0.8579
+F1 Score: 0.3165
+Precision: 0.5665
+Recall: 0.2196
+Detected Positives: 233
+True Positives: 132
+True Negatives: 3310
+False Positives: 101
+False Negatives: 469
+
+
+Prompt: label_17
+Accuracy: 0.8435
+F1 Score: 0.2960
+Precision: 0.4536
+Recall: 0.2196
+Detected Positives: 291
+True Positives: 132
+True Negatives: 3252
+False Positives: 159
+False Negatives: 469
+
+
+Prompt: label_20
+Accuracy: 0.8485
+F1 Score: 0.3122
+Precision: 0.4876
+Recall: 0.2296
+Detected Positives: 283
+True Positives: 138
+True Negatives: 3266
+False Positives: 145
+False Negatives: 463
+
+5-shot
+
+Prompt: label_18
+Accuracy: 0.8512
+F1 Score: 0.1987
+Precision: 0.5139
+Recall: 0.1231
+Detected Positives: 144
+True Positives: 74
+True Negatives: 3341
+False Positives: 70
+False Negatives: 527
+
+
+Prompt: label_4
+Accuracy: 0.8447
+F1 Score: 0.2280
+Precision: 0.4466
+Recall: 0.1531
+Detected Positives: 206
+True Positives: 92
+True Negatives: 3297
+False Positives: 114
+False Negatives: 509
+
+
+Prompt: label_21
+Accuracy: 0.8509
+F1 Score: 0.2411
+Precision: 0.5080
+Recall: 0.1581
+Detected Positives: 187
+True Positives: 95
+True Negatives: 3319
+False Positives: 92
+False Negatives: 506
+
+
+Prompt: label_17
+Accuracy: 0.8412
+F1 Score: 0.2408
+Precision: 0.4244
+Recall: 0.1681
+Detected Positives: 238
+True Positives: 101
+True Negatives: 3274
+False Positives: 137
+False Negatives: 500
+
+
+Prompt: label_20
+Accuracy: 0.8455
+F1 Score: 0.2383
+Precision: 0.4554
+Recall: 0.1614
+Detected Positives: 213
+True Positives: 97
+True Negatives: 3295
+False Positives: 116
+False Negatives: 504
+
+10-shot
+
+Prompt: label_18
+Accuracy: 0.8529
+F1 Score: 0.2216
+Precision: 0.5350
+Recall: 0.1398
+Detected Positives: 157
+True Positives: 84
+True Negatives: 3338
+False Positives: 73
+False Negatives: 517
+
+
+Prompt: label_4
+Accuracy: 0.8495
+F1 Score: 0.2652
+Precision: 0.4932
+Recall: 0.1814
+Detected Positives: 221
+True Positives: 109
+True Negatives: 3299
+False Positives: 112
+False Negatives: 492
+
+
+Prompt: label_21
+Accuracy: 0.8519
+F1 Score: 0.2594
+Precision: 0.5174
+Recall: 0.1730
+Detected Positives: 201
+True Positives: 104
+True Negatives: 3314
+False Positives: 97
+False Negatives: 497
+
+
+Prompt: label_17
+Accuracy: 0.8514
+F1 Score: 0.2456
+Precision: 0.5132
+Recall: 0.1614
+Detected Positives: 189
+True Positives: 97
+True Negatives: 3319
+False Positives: 92
+False Negatives: 504
+
+
+Prompt: label_20
+Accuracy: 0.8552
+F1 Score: 0.2365
+Precision: 0.5625
+Recall: 0.1498
+Detected Positives: 160
+True Positives: 90
+True Negatives: 3341
+False Positives: 70
+False Negatives: 511

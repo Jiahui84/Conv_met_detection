@@ -1,0 +1,12 @@
+openai:
+  OPENAI_API_KEY: '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'
+  OPENAI_API_BASE: ''
+  OPENAI_ORGANIZATION: ''
+
+azure:
+  AZURE_OPENAI_API_KEY: ''
+  AZURE_OPENAI_ENDPOINT: ''
+  OPENAI_API_VERSION: ''
+
+google:
+  GOOGLE_API_KEY: ''

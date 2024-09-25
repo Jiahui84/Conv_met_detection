@@ -1,0 +1,364 @@
+1. From - No
+1940 - No
+to - No
+1954 - No
+he - No
+wrote - No
+regularly - No
+for - No
+the - No
+New - No
+York - No
+Herald - No
+Tribune - No
+and - No
+four - No
+volumes - No
+of - No
+his - No
+notices - No
+have - No
+appeared - No
+in - No
+book - No
+form - No
+
+2. But - No
+it - No
+was - No
+the - No
+spirit - No
+of - No
+Henley - No
+with - No
+huge - No
+crowds - No
+enjoying - No
+amateur - No
+sport - No
+presented - No
+with - No
+administrative - No
+finesse - No
+which - No
+Keller - No
+took - No
+as - No
+the - No
+yardstick - Yes
+for - No
+the - No
+international - No
+circuit - No
+
+3. This - No
+may - No
+sound - No
+utopian - No
+but - No
+it - No
+has - No
+been - No
+borne+out - Yes 
+by - No
+the - No
+experience - No
+of - No
+existing - No
+telecottages - No
+
+4. Modern - No
+audiences - No
+no+longer - No
+accept - No
+plastic - No
+bushes - No
+and - No
+the - No
+southern - No
+Californian - No
+suburban - No
+sprawl - Yes
+means - No
+the - No
+production - No
+companies - No
+have - No
+to - No
+take - No
+their - No
+horses - No
+and - No
+cows - No
+to - No
+locations - No
+far - No
+away - No
+in - No
+Arizona - No
+or - No
+Montana - No
+
+5. Now - No
+there - No
+are - No
+maybe - No
+two - No
+
+6. Prints - No
+watercolours - No
+oil+paintings - No
+furniture - No
+and - No
+architectural - No
+effects - No
+Tuesday - No
+1.30pm - No
+
+7. Less - No
+happily - No
+but - No
+for - No
+the - No
+same - No
+reason - No
+repossessed - No
+houses - No
+are - No
+often - No
+auctioned - No
+
+8. Mr - No
+Duncan - No
+Nichol - No
+wants - No
+to - No
+separate - No
+the - No
+emergency - No
+from - No
+the - No
+non-emergency - No
+work - No
+
+9. Our - No
+latest - No
+Foreign - No
+Secretary - No
+has - No
+yet - No
+to - No
+publicly - No
+pick+up - Yes
+the - No
+file - Yes
+marked - No
+Hong - No
+Kong - No
+
+10. They - No
+may - No
+rightly - No
+feel - No
+that - No
+it - No
+is - No
+all - No
+really - No
+rather - No
+appalling - No
+
+11. Parliament - No
+should - No
+give - No
+fresh - No
+thought - No
+to - No
+enacting - No
+a - No
+provision - No
+placing - No
+an - No
+obligation - No
+upon - No
+a - No
+council - No
+tenant - No
+to - No
+give - No
+notice - No
+to - No
+the - No
+council - No
+before - No
+being - No
+permitted - No
+to - No
+commence - No
+proceedings - No
+
+12. By - No
+Robert - No
+Armstrong - No
+in - No
+Dublin - No
+
+13. Leinster - No
+have - No
+named - No
+a - No
+team - No
+that - No
+looks - Yes
+strong - Yes
+on - No
+paper - Yes
+including - No
+eight - No
+internationals - No
+yet - No
+they - No
+recently - No
+lost - No
+to - No
+both - No
+Munster - No
+and - No
+Ulster - No
+in - No
+the - No
+Inter-Provincial - No
+Championship - No
+
+14. No - No
+supporter - No
+of - No
+the - No
+Latics - No
+dared - No
+dream - Yes
+it - No
+but - No
+suddenly - No
+the - No
+improbable - No
+was - No
+a - No
+throbbing - Yes
+joyous - No
+reality - No
+
+15. Quinn - No
+held - No
+his - No
+head - No
+in - No
+disbelief - No
+
+16. But - No
+he - No
+also - No
+said - No
+Let's - No
+not - No
+take+away+from - Yes
+any - No
+credit - No
+Oldham - No
+
+17. However - No
+the - No
+City - No
+had - No
+been - No
+expecting - No
+bad - No
+figures - No
+and - No
+the - No
+shares - No
+rose - No
+15p - No
+to - No
+239p - No
+
+18. Frankfurt - No
+FAZ - No
+index - No
+695.74 - No
+684.01 - No
+
+19. There - No
+is - No
+more - No
+greenery - No
+further - No
+south - No
+in - No
+the - No
+deep - No
+forest - No
+of - No
+Chize - No
+with - No
+the - No
+fine - No
+Renaissance - No
+chateau - No
+of - No
+Dampierre-sur-Boutonne - No
+at - No
+its - No
+edge - No
+and - No
+more - No
+marshes - No
+to - No
+the - No
+west - No
+around - No
+Rochefort - No
+and - No
+Marennes - No
+where - No
+those - No
+mussels - No
+and - No
+oysters - No
+are - No
+raised - No
+
+20. Hilda - No
+Amiel - No
+alleged - No
+to - No
+be - No
+the - No
+very - No
+godmother - Yes
+of - No
+fake - No
+art - No
+has - No
+been - No
+arraigned - No
+for - No
+her - No
+part - No
+in - No
+what - No
+the - No
+US - No
+Attorney - No
+calls - No
+the - No
+single - No
+largest - No
+worldwide - No
+source - No
+and - No
+distribution - No
+network - No
+of - No
+bogus - No
+prints - No

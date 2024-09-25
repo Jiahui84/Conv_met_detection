@@ -1,0 +1,453 @@
+Step 1: Analyze every word in each given sentence to identify conventional metaphors.
+
+1. This furthered his long-term ambition to rule a large south Slav kingdom when the Ottoman Empire finally collapsed
+- Metaphor: "ambition to rule a large south Slav kingdom," suggesting the desire for control and expansion is like ruling a kingdom.
+
+2. In fact anti-racism and anti-sexism seem to come naturally to the Ahlbergs
+- No clear conventional metaphor.
+
+3. EACH new indignity in the heap visited on Welsh rugby seems worse than the last
+- Metaphor: "heap visited on," suggesting accumulating problems are like a physical pile of objects.
+
+4. What of this thirst that can be satisfied by an unquenching drink
+- Metaphor: "thirst," suggesting a strong desire, and "unquenching drink," suggesting an unsatisfying solution.
+
+5. The nearest to being quenching is the white beer of Berlin
+- Metaphor: "quenching," suggesting a satisfying solution is like drinking something that satisfies thirst.
+
+6. IN THE small Devon town of South Molton Julie Widlake is waiting with anticipation for Friday 20 October
+- No clear conventional metaphor.
+
+7. His successful bid was for £190,000 although he had made a higher prior offer which had been turned down
+- No clear conventional metaphor.
+
+8. In Britain with the main exception of Blackpool not forgetting the single-deckers of the Isle of Man and Llandudno trams had been largely relegated to the history books
+- Metaphor: "relegated to the history books," suggesting something is outdated or no longer relevant.
+
+9. The Slingos have their own vegetable garden chickens ducks sheep and cows
+- No clear conventional metaphor.
+
+10. Scott was so pleased with the style he had evolved at Battersea a treatment that humanised industrial forms without denying their function that he also used it on the Guinness Factory at Park Royal west London
+- Metaphor: "humanised industrial forms," suggesting making something more relatable or less harsh is like giving it human qualities.
+
+11. What should have been a routine exercise in extending the Government borrowing power to $3.1 thousand billion became bogged down in wrangling over legislative initiatives lawmakers wanted to attach to the bill
+- Metaphor: "bogged down," suggesting being slowed or hindered is like being stuck in a bog.
+
+12. What has gone wrong
+- No clear conventional metaphor.
+
+13. Tiphook confident
+- No clear conventional metaphor.
+
+14. The structure of the developing national authority has been both diffuse enough to prevent it from being destroyed by any one single sweep of arrests there have been more than 50 arrests since the Intifada outbreak and coherent enough to allow for the existence of a unified resistance strategy
+- No clear conventional metaphor.
+
+15. Through it Palestinians are struggling on a daily basis to shake off Israel authority and to construct their own
+- Metaphor: "shake off," suggesting removing something undesirable is like physically shaking it off.
+
+16. But these themes are always interspersed with more fanciful ones grimacing masks weird animals exuberant abstract patterns
+- No clear conventional metaphor.
+
+17. When built in 1938 it was The Ridges which is still what they call it locally a slum clearance project on the north bank of the Tyne 10 miles east of Newcastle
+- No clear conventional metaphor.
+
+18. I knew there was one here he continued meaning Liberal Democrats
+- No clear conventional metaphor.
+
+19. The results exceeded our expectations said Mr Goodson
+- No clear conventional metaphor.
+
+20. However he suggested there was perhaps a need to look into the system more closely
+- No clear conventional metaphor.
+
+Step 2: List every word in the given sentence sequentially, placing one word per row. Use an empty row to separate word lists from different sentences. Then, review the words to confirm which are conventional metaphors. After confirmation, mark the words that are conventional metaphors with ':1' in the word lists.
+
+1. This
+2. furthered
+3. his
+4. long-term
+5. ambition:1
+6. to
+7. rule:1
+8. a
+9. large
+10. south
+11. Slav
+12. kingdom:1
+13. when
+14. the
+15. Ottoman
+16. Empire
+17. finally
+18. collapsed
+
+1. In
+2. fact
+3. anti-racism
+4. and
+5. anti-sexism
+6. seem
+7. to
+8. come
+9. naturally
+10. to
+11. the
+12. Ahlbergs
+
+1. EACH
+2. new
+3. indignity
+4. in
+5. the
+6. heap:1
+7. visited:1
+8. on
+9. Welsh
+10. rugby
+11. seems
+12. worse
+13. than
+14. the
+15. last
+
+1. What
+2. of
+3. this
+4. thirst:1
+5. that
+6. can
+7. be
+8. satisfied
+9. by
+10. an
+11. unquenching:1
+12. drink:1
+
+1. The
+2. nearest
+3. to
+4. being
+5. quenching:1
+6. is
+7. the
+8. white
+9. beer
+10. of
+11. Berlin
+
+1. IN
+2. THE
+3. small
+4. Devon
+5. town
+6. of
+7. South
+8. Molton
+9. Julie
+10. Widlake
+11. is
+12. waiting
+13. with
+14. anticipation
+15. for
+16. Friday
+17. 20
+18. October
+
+1. His
+2. successful
+3. bid
+4. was
+5. for
+6. £190,000
+7. although
+8. he
+9. had
+10. made
+11. a
+12. higher
+13. prior
+14. offer
+15. which
+16. had
+17. been
+18. turned
+19. down
+
+1. In
+2. Britain
+3. with
+4. the
+5. main
+6. exception
+7. of
+8. Blackpool
+9. not
+10. forgetting
+11. the
+12. single-deckers
+13. of
+14. the
+15. Isle
+16. of
+17. Man
+18. and
+19. Llandudno
+20. trams
+21. had
+22. been
+23. largely
+24. relegated:1
+25. to
+26. the
+27. history
+28. books:1
+
+1. The
+2. Slingos
+3. have
+4. their
+5. own
+6. vegetable
+7. garden
+8. chickens
+9. ducks
+10. sheep
+11. and
+12. cows
+
+1. Scott
+2. was
+3. so
+4. pleased
+5. with
+6. the
+7. style
+8. he
+9. had
+10. evolved
+11. at
+12. Battersea
+13. a
+14. treatment
+15. that
+16. humanised:1
+17. industrial
+18. forms:1
+19. without
+20. denying
+21. their
+22. function
+23. that
+24. he
+25. also
+26. used
+27. it
+28. on
+29. the
+30. Guinness
+31. Factory
+32. at
+33. Park
+34. Royal
+35. west
+36. London
+
+1. What
+2. should
+3. have
+4. been
+5. a
+6. routine
+7. exercise
+8. in
+9. extending
+10. the
+11. Government
+12. borrowing
+13. power
+14. to
+15. $3.1
+16. thousand
+17. billion
+18. became
+19. bogged:1
+20. down:1
+21. in
+22. wrangling
+23. over
+24. legislative
+25. initiatives
+26. lawmakers
+27. wanted
+28. to
+29. attach
+30. to
+31. the
+32. bill
+
+1. What
+2. has
+3. gone
+4. wrong
+
+1. Tiphook
+2. confident
+
+1. The
+2. structure
+3. of
+4. the
+5. developing
+6. national
+7. authority
+8. has
+9. been
+10. both
+11. diffuse
+12. enough
+13. to
+14. prevent
+15. it
+16. from
+17. being
+18. destroyed
+19. by
+20. any
+21. one
+22. single
+23. sweep
+24. of
+25. arrests
+26. there
+27. have
+28. been
+29. more
+30. than
+31. 50
+32. arrests
+33. since
+34. the
+35. Intifada
+36. outbreak
+37. and
+38. coherent
+39. enough
+40. to
+41. allow
+42. for
+43. the
+44. existence
+45. of
+46. a
+47. unified
+48. resistance
+49. strategy
+
+1. Through
+2. it
+3. Palestinians
+4. are
+5. struggling
+6. on
+7. a
+8. daily
+9. basis
+10. to
+11. shake:1
+12. off:1
+13. Israel
+14. authority
+15. and
+16. to
+17. construct
+18. their
+19. own
+
+1. But
+2. these
+3. themes
+4. are
+5. always
+6. interspersed
+7. with
+8. more
+9. fanciful
+10. ones
+11. grimacing
+12. masks
+13. weird
+14. animals
+15. exuberant
+16. abstract
+17. patterns
+
+1. When
+2. built
+3. in
+4. 1938
+5. it
+6. was
+7. The
+8. Ridges
+9. which
+10. is
+11. still
+12. what
+13. they
+14. call
+15. it
+16. locally
+17. a
+18. slum
+19. clearance
+20. project
+21. on
+22. the
+23. north
+24. bank
+25. of
+26. the
+27. Tyne
+28. 10
+29. miles
+30. east
+31. of
+32. Newcastle
+
+1. I
+2. knew
+3. there
+4. was
+5. one
+6. here
+7. he
+8. continued
+9. meaning
+10. Liberal
+11. Democrats
+
+1. The
+2. results
+3. exceeded
+4. our
+5. expectations
+6. said
+7. Mr
+8. Goodson
+
+1. However
+2. he
+3. suggested
+4. there
+5. was
+6. perhaps
+7. a
+8. need
+9. to
+10. look
+11. into
+12. the
+13. system
+14. more
+15. closely

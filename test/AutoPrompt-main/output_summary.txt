@@ -1,0 +1,224 @@
+0 shot
+
+Prompt: label_21
+Accuracy: 0.7889
+F1 Score: 0.1366
+Precision: 0.1763
+Recall: 0.1115
+True Positives: 67
+True Negatives: 3098
+False Positives: 313
+False Negatives: 534
+
+
+Prompt: label_18
+Accuracy: 0.8482
+F1 Score: 0.1083
+Precision: 0.4512
+Recall: 0.0616
+True Positives: 37
+True Negatives: 3366
+False Positives: 45
+False Negatives: 564
+
+
+Prompt: label_4
+Accuracy: 0.8519
+F1 Score: 0.1316
+Precision: 0.5422
+Recall: 0.0749
+True Positives: 45
+True Negatives: 3373
+False Positives: 38
+False Negatives: 556
+
+
+Prompt: label_17
+Accuracy: 0.8517
+F1 Score: 0.0998
+Precision: 0.5500
+Recall: 0.0549
+True Positives: 33
+True Negatives: 3384
+False Positives: 27
+False Negatives: 568
+
+
+Prompt: label_20
+Accuracy: 0.8532
+F1 Score: 0.1116
+Precision: 0.5968
+Recall: 0.0616
+True Positives: 37
+True Negatives: 3386
+False Positives: 25
+False Negatives: 564
+
+1 shot
+
+Prompt: label_21
+Accuracy: 0.8524
+F1 Score: 0.1662
+Precision: 0.5413
+Recall: 0.0982
+True Positives: 59
+True Negatives: 3361
+False Positives: 50
+False Negatives: 542
+
+
+Prompt: label_18
+Accuracy: 0.8485
+F1 Score: 0.2145
+Precision: 0.4798
+Recall: 0.1381
+True Positives: 83
+True Negatives: 3321
+False Positives: 90
+False Negatives: 518
+
+
+Prompt: label_4
+Accuracy: 0.8547
+F1 Score: 0.1514
+Precision: 0.6047
+Recall: 0.0865
+True Positives: 52
+True Negatives: 3377
+False Positives: 34
+False Negatives: 549
+
+
+Prompt: label_17
+Accuracy: 0.8532
+F1 Score: 0.1525
+Precision: 0.5638
+Recall: 0.0882
+True Positives: 53
+True Negatives: 3370
+False Positives: 41
+False Negatives: 548
+
+
+Prompt: label_20
+Accuracy: 0.8534
+F1 Score: 0.1224
+Precision: 0.5942
+Recall: 0.0682
+True Positives: 41
+True Negatives: 3383
+False Positives: 28
+False Negatives: 560
+
+
+5 shot
+
+Prompt: label_21
+Accuracy: 0.8529
+F1 Score: 0.1523
+Precision: 0.5579
+Recall: 0.0882
+True Positives: 53
+True Negatives: 3369
+False Positives: 42
+False Negatives: 548
+
+
+Prompt: label_18
+Accuracy: 0.8502
+F1 Score: 0.2383
+Precision: 0.5000
+Recall: 0.1564
+True Positives: 94
+True Negatives: 3317
+False Positives: 94
+False Negatives: 507
+
+
+Prompt: label_4
+Accuracy: 0.8527
+F1 Score: 0.1496
+Precision: 0.5532
+Recall: 0.0865
+True Positives: 52
+True Negatives: 3369
+False Positives: 42
+False Negatives: 549
+
+
+Prompt: label_17
+Accuracy: 0.8509
+F1 Score: 0.1206
+Precision: 0.5190
+Recall: 0.0682
+True Positives: 41
+True Negatives: 3373
+False Positives: 38
+False Negatives: 560
+
+
+Prompt: label_20
+Accuracy: 0.8507
+F1 Score: 0.1204
+Precision: 0.5125
+Recall: 0.0682
+True Positives: 41
+True Negatives: 3372
+False Positives: 39
+False Negatives: 560
+
+10 shot
+
+Prompt: label_20
+Accuracy: 0.8495
+F1 Score: 0.0736
+Precision: 0.4706
+Recall: 0.0399
+True Positives: 24
+True Negatives: 3384
+False Positives: 27
+False Negatives: 577
+
+
+Prompt: label_18
+Accuracy: 0.8509
+F1 Score: 0.2314
+Precision: 0.5085
+Recall: 0.1498
+True Positives: 90
+True Negatives: 3324
+False Positives: 87
+False Negatives: 511
+
+
+Prompt: label_21
+Accuracy: 0.8564
+F1 Score: 0.2000
+Precision: 0.6050
+Recall: 0.1198
+True Positives: 72
+True Negatives: 3364
+False Positives: 47
+False Negatives: 529
+
+
+Prompt: label_4
+Accuracy: 0.8537
+F1 Score: 0.1355
+Precision: 0.5897
+Recall: 0.0765
+True Positives: 46
+True Negatives: 3379
+False Positives: 32
+False Negatives: 555
+
+
+Prompt: label_17
+Accuracy: 0.8547
+F1 Score: 0.1233
+Precision: 0.6406
+Recall: 0.0682
+True Positives: 41
+True Negatives: 3388
+False Positives: 23
+False Negatives: 560

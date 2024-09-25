@@ -1,0 +1,219 @@
+﻿Features,0 shot - conventional metaphor ,0 shot - lexicalized metaphor ,0 shot - metaphor ,0 shot - conventional metaphor + only NVAJ,0 shot - lexicalized metaphor + only NVAJ,0 shot - metaphor + only NVAJ ,prompt_num
+Basic Task Description,"Your task is to detect conventional metaphors with an IOB tagging schema. Proceed as follows:
+
+Analyze each sentence provided and write down each word separately, one word per row. Mark any conventional metaphorical word with ""B-ENT"". If the following word is also part of the conventional metaphor, mark it with ""I-ENT"". Use an empty row to separate word lists from different sentences.
+
+Sentences: {text}","Your task is to detect lexicalized metaphors. Proceed as follows:
+
+Analyze the text provided and write down each word separately, one word per row. Mark any lexicalized metaphorical word with "":1"".
+Sentences: {text}","Your task is to detect metaphors. Proceed as follows:
+
+Analyze the text provided and write down each word separately, one word per row. Mark any metaphorical word with "":1"".
+Text: {text}","Your task is to detect conventional metaphors. Proceed as follows:
+
+Analyze the text provided and write down each word separately, one word per row. Mark any conventional metaphorical word with "":1"".Only mark nouns, verbs and adjectives. 
+Text: {text}","Your task is to detect lexicalized metaphors. Proceed as follows:
+
+Analyze the text provided and write down each word separately, one word per row. Mark any lexicalized metaphorical word with "":1"".Only mark nouns, verbs and adjectives. 
+Text: {text}","Your task is to detect metaphors. Proceed as follows:
+
+Analyze the text provided and write down each word separately, one word per row. Mark any metaphorical word with "":1"".Only mark nouns, verbs and adjectives. 
+Text: {text}",4
+Background Information with Metaphor Identification Process,"A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. Your task will be to detect conventional metaphors within given sentences with an IOB tagging schema. 
+
+Please analyze the following sentences and output every word of each sentence,one word per row, with ""B-ENT"" appended to any word that is part of a conventional metaphor. If the following word is also part of the conventional metaphor, mark it with ""I-ENT"". Use an empty row to separate word lists from different sentences:
+{text}","A lexicalized metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, expressions equating time with a valuable resource. Your task will be to identify lexicalized metaphors within given sentences. 
+
+Please analyze the following sentences and output each word, with "":1"" appended to any word that is part of a lexicalized metaphor:
+{text}","A metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, expressions equating time with a valuable resource. Your task will be to identify metaphors within given sentences. 
+
+Please analyze the following sentences and output each word, with "":1"" appended to any word that is part of a metaphor:
+{text}","A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, expressions equating time with a valuable resource. Your task will be to identify conventional metaphors within given sentences. 
+
+Please analyze the following sentences and output each word, with "":1"" appended to any word that is part of a conventional metaphor. Only mark nouns, verbs and adjectives:
+{text}","A lexicalized metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, expressions equating time with a valuable resource. Your task will be to identify lexicalized metaphors within given sentences. 
+
+Please analyze the following sentences and output each word, with "":1"" appended to any word that is part of a lexicalized metaphor. Only mark nouns, verbs and adjectives:
+{text}","A metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. For instance, expressions equating time with a valuable resource. Your task will be to identify metaphors within given sentences. 
+
+Please analyze the following sentences and output each word, with "":1"" appended to any word that is part of a metaphor. Only mark nouns, verbs and adjectives: 
+{text}",17
+Background Information,"You will be trained to recognize conventional metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning, with an IOB tagging schema. 
+
+Now, analyze a set of senences and output each word individually, one word per row. Mark conventional metaphors with ""B-ENT"". If the following word is also part of the conventional metaphor, mark it with ""I-ENT"". Use an empty row to separate word lists from different sentences:
+{text}","You will be trained to recognize lexicalized metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the following text and output each word individually, one word per row, marking any lexicalized metaphors with "":1"":
+{text}","You will be trained to recognize metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the following text and output each word individually, one word per row, marking any metaphors with "":1"":
+{text}","You will be trained to recognize conventional metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the following text and output each word individually, one word per row, marking any conventional metaphors with "":1"". Only mark nouns, verbs and adjectives:
+{text}","You will be trained to recognize lexicalized metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the following text and output each word individually, one word per row, marking any lexicalized metaphors with "":1"". Only mark nouns, verbs and adjectives:
+{text}","You will be trained to recognize metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. 
+
+Now, analyze the following text and output each word individually, one word per row, marking any metaphors with "":1"". Only mark nouns, verbs and adjectives:
+{text}",18
+Background Information,"Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines, process the following sentences with an IOB tagging schema. List every word from each sentence, one word per row, and mark conventional metaphorical words with ""B-ENT"". If the following word is also part of the conventional metaphor, mark it with ""I-ENT"". Use an empty row to separate word lists from different sentences.
+
+Sentences: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Lexicalized metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text.List every word from each sentence, one word per row, and mark lexicalized metaphorical words with ':1'. Use an empty row to separate word lists from different sentences.
+
+Sentences: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark metaphorical words with ':1'.
+
+Text: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark conventional metaphorical words with ':1'.Only mark nouns, verbs and adjectives. 
+
+Text: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Lexicalized metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark lexicalized metaphorical words with ':1'.Only mark nouns, verbs and adjectives. 
+
+Text: {text}","Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. 
+
+Guidelines:
+
+Pay close attention to words that represent one thing in terms of another.
+Focus on widely recognized and used metaphors.
+Only mark words that are explicitly metaphorical in the given context.
+
+Based on the guidelines and examples, process the following text. List each word on a separate line and mark metaphorical words with ':1'.Only mark nouns, verbs and adjectives. 
+
+Text: {text}",20
+Background Information with Metaphor Identification Process,"Objective: detect conventional metaphors within the provided sentences with an IOB tagging schema by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Criteria for Conventional Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be conventional, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Detect words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark conventional metaphors with ""B-ENT"". If the following word is also part of the conventional metaphor, mark it with ""I-ENT"".
+
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with conventional metaphorical words marked with  ""B-ENT"". If the following word is also a conventional metaphor, mark it with ""I-ENT"". Use an empty row to separate word lists from different sentences.","Objective: detect lexicalized metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Criteria for Lexicalized Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be lexicalized, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Detect words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each lexicalized metaphor with ':1'.
+
+Input Sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with lexicalized metaphorical words marked with ':1'. Use an empty row to separate word lists from different sentences.","Objective: detect metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each metaphor with ':1'.
+
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with metaphorical words marked with ':1'. Use an empty row to separate word lists from different sentences.","Objective: detect conventional metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Criteria for Conventional Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be conventional, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each conventional metaphor with ':1'.
+6. Only mark nouns, verbs and adjectives. 
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with conventional metaphorical words marked with ':1'. Use an empty row to separate word lists from different sentences.","Objective: detect lexicalized metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Criteria for Lexicalized Metaphors:
+
+1. The metaphorical usage must be of high frequency and commonly understood.
+2. It should be lexicalized, meaning it's recognized in dictionaries with its metaphorical meaning.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each lexicalized metaphor with ':1'.
+6. Only mark nouns, verbs and adjectives. 
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with lexicalized metaphorical words marked with ':1'. Use an empty row to separate word lists from different sentences.","Objective: detect metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage.
+
+Instructions:
+
+1. Read each input sentence thoroughly to understand its context and intent.
+2. Identify words or phrases used metaphorically.
+3. Check if these metaphorical uses are common and listed in dictionary entries as such.
+4. Compile a list of all the words from each sentence.
+5. Mark each metaphor with ':1'.
+6. Only mark nouns, verbs and adjectives. 
+Input sentences: {text}
+
+Output:
+Provide a list of all the words of each input sentences, one word per row, with metaphorical words marked with ':1'. Use an empty row to separate word lists from different sentences.",21

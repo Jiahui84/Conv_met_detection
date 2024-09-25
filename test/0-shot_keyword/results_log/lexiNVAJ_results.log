@@ -1,0 +1,1740 @@
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8590130916414904,
+        "recall": 0.9798966111430213,
+        "f1-score": 0.9154816206063858,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.47368421052631576,
+        "recall": 0.10112359550561797,
+        "f1-score": 0.16666666666666669,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6663486510839031,
+        "recall": 0.5405101033243196,
+        "f1-score": 0.5410741436365263,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8005332151653018,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8018368663300289,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8566799601196411,
+        "recall": 0.9870763928776565,
+        "f1-score": 0.9172671470509741,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5161290322580645,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.1340782122905028,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6864044961888528,
+        "recall": 0.5320614709171589,
+        "f1-score": 0.5256726796707385,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8049958607145833,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.7984055864283739,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8517506828904892,
+        "recall": 0.9850660539919587,
+        "f1-score": 0.913570382208017,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3333333333333333,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07417974322396577,
+        "support": 623.0
+    },
+    "accuracy": 0.8419001218026797,
+    "macro avg": {
+        "precision": 0.5925420081119113,
+        "recall": 0.5133998006717417,
+        "f1-score": 0.4938750627159914,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7730724834327284,
+        "recall": 0.8419001218026797,
+        "f1-score": 0.7861793059383303,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8521545319465081,
+        "recall": 0.9882251579551982,
+        "f1-score": 0.915159574468085,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3880597014925373,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07536231884057971,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6201071167195227,
+        "recall": 0.5149793526533615,
+        "f1-score": 0.4952609466543324,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7817206514659177,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.7877067875604271,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8596579476861167,
+        "recall": 0.9816197587593337,
+        "f1-score": 0.9165996245642263,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5038759689922481,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17287234042553193,
+        "support": 623.0
+    },
+    "accuracy": 0.8484774665042631,
+    "macro avg": {
+        "precision": 0.6817669583391823,
+        "recall": 0.5429768135690729,
+        "f1-score": 0.5447359824948791,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.805662290505537,
+        "recall": 0.8484774665042631,
+        "f1-score": 0.8037270062893404,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8582914572864322,
+        "recall": 0.9810453762205629,
+        "f1-score": 0.9155722326454033,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.472,
+        "recall": 0.09470304975922954,
+        "f1-score": 0.15775401069518719,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6651457286432161,
+        "recall": 0.5378742129898962,
+        "f1-score": 0.5366631216702953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799665494341378,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8005610871460161,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8545409181636726,
+        "recall": 0.9836300976450316,
+        "f1-score": 0.9145527369826435,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41237113402061853,
+        "recall": 0.06420545746388442,
+        "f1-score": 0.11111111111111112,
+        "support": 623.0
+    },
+    "accuracy": 0.8440925700365408,
+    "macro avg": {
+        "precision": 0.6334560260921456,
+        "recall": 0.523917777554458,
+        "f1-score": 0.5128319240468773,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7874345173059082,
+        "recall": 0.8440925700365408,
+        "f1-score": 0.7926175036286934,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8553255175854327,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9154985983179815,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4479166666666667,
+        "recall": 0.06902086677367576,
+        "f1-score": 0.11961057023643949,
+        "support": 623.0
+    },
+    "accuracy": 0.8457978075517661,
+    "macro avg": {
+        "precision": 0.6516210921260497,
+        "recall": 0.5268998647481244,
+        "f1-score": 0.5175545842772105,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.793494649346117,
+        "recall": 0.8457978075517661,
+        "f1-score": 0.7947097453350824,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8593002768688648,
+        "recall": 0.980470993681792,
+        "f1-score": 0.9158953722334003,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.48484848484848486,
+        "recall": 0.10272873194221509,
+        "f1-score": 0.1695364238410596,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6720743808586749,
+        "recall": 0.5415998628120036,
+        "f1-score": 0.54271589803723,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8024711742065758,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8026233564359756,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8571786519669256,
+        "recall": 0.9824813325674899,
+        "f1-score": 0.9155626923591597,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4649122807017544,
+        "recall": 0.08507223113964688,
+        "f1-score": 0.14382632293080053,
+        "support": 623.0
+    },
+    "accuracy": 0.8462850182704019,
+    "macro avg": {
+        "precision": 0.6610454663343399,
+        "recall": 0.5337767818535684,
+        "f1-score": 0.52969450764498,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.797645899397327,
+        "recall": 0.8462850182704019,
+        "f1-score": 0.7984392433569996,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8620951417004049,
+        "recall": 0.9784606547960942,
+        "f1-score": 0.916599408124832,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5098039215686274,
+        "recall": 0.12520064205457465,
+        "f1-score": 0.20103092783505158,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6859495316345161,
+        "recall": 0.5518306484253345,
+        "f1-score": 0.5588151679799418,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8086292634684689,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8080003427848726,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8524185587364265,
+        "recall": 0.9919586444572085,
+        "f1-score": 0.916910007963897,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4716981132075472,
+        "recall": 0.04012841091492777,
+        "f1-score": 0.07396449704142011,
+        "support": 623.0
+    },
+    "accuracy": 0.8475030450669915,
+    "macro avg": {
+        "precision": 0.6620583359719868,
+        "recall": 0.5160435276860681,
+        "f1-score": 0.4954372525026586,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7946380867353323,
+        "recall": 0.8475030450669915,
+        "f1-score": 0.7889794225059913,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8531973127643693,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9142780962538328,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.38372093023255816,
+        "recall": 0.052969502407704656,
+        "f1-score": 0.09308885754583922,
+        "support": 623.0
+    },
+    "accuracy": 0.843361753958587,
+    "macro avg": {
+        "precision": 0.6184591214984637,
+        "recall": 0.518874182565139,
+        "f1-score": 0.5036834768998361,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7819466949038776,
+        "recall": 0.843361753958587,
+        "f1-score": 0.7896493762257987,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8590130916414904,
+        "recall": 0.9798966111430213,
+        "f1-score": 0.9154816206063858,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.47368421052631576,
+        "recall": 0.10112359550561797,
+        "f1-score": 0.16666666666666669,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6663486510839031,
+        "recall": 0.5405101033243196,
+        "f1-score": 0.5410741436365263,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8005332151653018,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8018368663300289,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8566799601196411,
+        "recall": 0.9870763928776565,
+        "f1-score": 0.9172671470509741,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5161290322580645,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.1340782122905028,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6864044961888528,
+        "recall": 0.5320614709171589,
+        "f1-score": 0.5256726796707385,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8049958607145833,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.7984055864283739,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8517506828904892,
+        "recall": 0.9850660539919587,
+        "f1-score": 0.913570382208017,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3333333333333333,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07417974322396577,
+        "support": 623.0
+    },
+    "accuracy": 0.8419001218026797,
+    "macro avg": {
+        "precision": 0.5925420081119113,
+        "recall": 0.5133998006717417,
+        "f1-score": 0.4938750627159914,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7730724834327284,
+        "recall": 0.8419001218026797,
+        "f1-score": 0.7861793059383303,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8521545319465081,
+        "recall": 0.9882251579551982,
+        "f1-score": 0.915159574468085,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3880597014925373,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07536231884057971,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6201071167195227,
+        "recall": 0.5149793526533615,
+        "f1-score": 0.4952609466543324,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7817206514659177,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.7877067875604271,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8596579476861167,
+        "recall": 0.9816197587593337,
+        "f1-score": 0.9165996245642263,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5038759689922481,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17287234042553193,
+        "support": 623.0
+    },
+    "accuracy": 0.8484774665042631,
+    "macro avg": {
+        "precision": 0.6817669583391823,
+        "recall": 0.5429768135690729,
+        "f1-score": 0.5447359824948791,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.805662290505537,
+        "recall": 0.8484774665042631,
+        "f1-score": 0.8037270062893404,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8582914572864322,
+        "recall": 0.9810453762205629,
+        "f1-score": 0.9155722326454033,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.472,
+        "recall": 0.09470304975922954,
+        "f1-score": 0.15775401069518719,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6651457286432161,
+        "recall": 0.5378742129898962,
+        "f1-score": 0.5366631216702953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799665494341378,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8005610871460161,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8545409181636726,
+        "recall": 0.9836300976450316,
+        "f1-score": 0.9145527369826435,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41237113402061853,
+        "recall": 0.06420545746388442,
+        "f1-score": 0.11111111111111112,
+        "support": 623.0
+    },
+    "accuracy": 0.8440925700365408,
+    "macro avg": {
+        "precision": 0.6334560260921456,
+        "recall": 0.523917777554458,
+        "f1-score": 0.5128319240468773,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7874345173059082,
+        "recall": 0.8440925700365408,
+        "f1-score": 0.7926175036286934,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8553255175854327,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9154985983179815,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4479166666666667,
+        "recall": 0.06902086677367576,
+        "f1-score": 0.11961057023643949,
+        "support": 623.0
+    },
+    "accuracy": 0.8457978075517661,
+    "macro avg": {
+        "precision": 0.6516210921260497,
+        "recall": 0.5268998647481244,
+        "f1-score": 0.5175545842772105,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.793494649346117,
+        "recall": 0.8457978075517661,
+        "f1-score": 0.7947097453350824,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8593002768688648,
+        "recall": 0.980470993681792,
+        "f1-score": 0.9158953722334003,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.48484848484848486,
+        "recall": 0.10272873194221509,
+        "f1-score": 0.1695364238410596,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6720743808586749,
+        "recall": 0.5415998628120036,
+        "f1-score": 0.54271589803723,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8024711742065758,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8026233564359756,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8571786519669256,
+        "recall": 0.9824813325674899,
+        "f1-score": 0.9155626923591597,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4649122807017544,
+        "recall": 0.08507223113964688,
+        "f1-score": 0.14382632293080053,
+        "support": 623.0
+    },
+    "accuracy": 0.8462850182704019,
+    "macro avg": {
+        "precision": 0.6610454663343399,
+        "recall": 0.5337767818535684,
+        "f1-score": 0.52969450764498,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.797645899397327,
+        "recall": 0.8462850182704019,
+        "f1-score": 0.7984392433569996,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8620951417004049,
+        "recall": 0.9784606547960942,
+        "f1-score": 0.916599408124832,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5098039215686274,
+        "recall": 0.12520064205457465,
+        "f1-score": 0.20103092783505158,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6859495316345161,
+        "recall": 0.5518306484253345,
+        "f1-score": 0.5588151679799418,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8086292634684689,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8080003427848726,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8524185587364265,
+        "recall": 0.9919586444572085,
+        "f1-score": 0.916910007963897,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4716981132075472,
+        "recall": 0.04012841091492777,
+        "f1-score": 0.07396449704142011,
+        "support": 623.0
+    },
+    "accuracy": 0.8475030450669915,
+    "macro avg": {
+        "precision": 0.6620583359719868,
+        "recall": 0.5160435276860681,
+        "f1-score": 0.4954372525026586,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7946380867353323,
+        "recall": 0.8475030450669915,
+        "f1-score": 0.7889794225059913,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8531973127643693,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9142780962538328,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.38372093023255816,
+        "recall": 0.052969502407704656,
+        "f1-score": 0.09308885754583922,
+        "support": 623.0
+    },
+    "accuracy": 0.843361753958587,
+    "macro avg": {
+        "precision": 0.6184591214984637,
+        "recall": 0.518874182565139,
+        "f1-score": 0.5036834768998361,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7819466949038776,
+        "recall": 0.843361753958587,
+        "f1-score": 0.7896493762257987,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8590130916414904,
+        "recall": 0.9798966111430213,
+        "f1-score": 0.9154816206063858,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.47368421052631576,
+        "recall": 0.10112359550561797,
+        "f1-score": 0.16666666666666669,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6663486510839031,
+        "recall": 0.5405101033243196,
+        "f1-score": 0.5410741436365263,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8005332151653018,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8018368663300289,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8566799601196411,
+        "recall": 0.9870763928776565,
+        "f1-score": 0.9172671470509741,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5161290322580645,
+        "recall": 0.07704654895666131,
+        "f1-score": 0.1340782122905028,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6864044961888528,
+        "recall": 0.5320614709171589,
+        "f1-score": 0.5256726796707385,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8049958607145833,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.7984055864283739,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8517506828904892,
+        "recall": 0.9850660539919587,
+        "f1-score": 0.913570382208017,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3333333333333333,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07417974322396577,
+        "support": 623.0
+    },
+    "accuracy": 0.8419001218026797,
+    "macro avg": {
+        "precision": 0.5925420081119113,
+        "recall": 0.5133998006717417,
+        "f1-score": 0.4938750627159914,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7730724834327284,
+        "recall": 0.8419001218026797,
+        "f1-score": 0.7861793059383303,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8521545319465081,
+        "recall": 0.9882251579551982,
+        "f1-score": 0.915159574468085,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.3880597014925373,
+        "recall": 0.04173354735152488,
+        "f1-score": 0.07536231884057971,
+        "support": 623.0
+    },
+    "accuracy": 0.8445797807551766,
+    "macro avg": {
+        "precision": 0.6201071167195227,
+        "recall": 0.5149793526533615,
+        "f1-score": 0.4952609466543324,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7817206514659177,
+        "recall": 0.8445797807551766,
+        "f1-score": 0.7877067875604271,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8596579476861167,
+        "recall": 0.9816197587593337,
+        "f1-score": 0.9165996245642263,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5038759689922481,
+        "recall": 0.1043338683788122,
+        "f1-score": 0.17287234042553193,
+        "support": 623.0
+    },
+    "accuracy": 0.8484774665042631,
+    "macro avg": {
+        "precision": 0.6817669583391823,
+        "recall": 0.5429768135690729,
+        "f1-score": 0.5447359824948791,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.805662290505537,
+        "recall": 0.8484774665042631,
+        "f1-score": 0.8037270062893404,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8582914572864322,
+        "recall": 0.9810453762205629,
+        "f1-score": 0.9155722326454033,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.472,
+        "recall": 0.09470304975922954,
+        "f1-score": 0.15775401069518719,
+        "support": 623.0
+    },
+    "accuracy": 0.8465286236297198,
+    "macro avg": {
+        "precision": 0.6651457286432161,
+        "recall": 0.5378742129898962,
+        "f1-score": 0.5366631216702953,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.799665494341378,
+        "recall": 0.8465286236297198,
+        "f1-score": 0.8005610871460161,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8613083164300203,
+        "recall": 0.9755887421022401,
+        "f1-score": 0.9148936170212766,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4720496894409938,
+        "recall": 0.12199036918138041,
+        "f1-score": 0.19387755102040816,
+        "support": 623.0
+    },
+    "accuracy": 0.846041412911084,
+    "macro avg": {
+        "precision": 0.666679002935507,
+        "recall": 0.5487895556418103,
+        "f1-score": 0.5543855840208424,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8022320375958756,
+        "recall": 0.846041412911084,
+        "f1-score": 0.8054677926318634,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8545409181636726,
+        "recall": 0.9836300976450316,
+        "f1-score": 0.9145527369826435,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.41237113402061853,
+        "recall": 0.06420545746388442,
+        "f1-score": 0.11111111111111112,
+        "support": 623.0
+    },
+    "accuracy": 0.8440925700365408,
+    "macro avg": {
+        "precision": 0.6334560260921456,
+        "recall": 0.523917777554458,
+        "f1-score": 0.5128319240468773,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7874345173059082,
+        "recall": 0.8440925700365408,
+        "f1-score": 0.7926175036286934,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8553255175854327,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9154985983179815,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4479166666666667,
+        "recall": 0.06902086677367576,
+        "f1-score": 0.11961057023643949,
+        "support": 623.0
+    },
+    "accuracy": 0.8457978075517661,
+    "macro avg": {
+        "precision": 0.6516210921260497,
+        "recall": 0.5268998647481244,
+        "f1-score": 0.5175545842772105,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.793494649346117,
+        "recall": 0.8457978075517661,
+        "f1-score": 0.7947097453350824,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8593002768688648,
+        "recall": 0.980470993681792,
+        "f1-score": 0.9158953722334003,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.48484848484848486,
+        "recall": 0.10272873194221509,
+        "f1-score": 0.1695364238410596,
+        "support": 623.0
+    },
+    "accuracy": 0.8472594397076736,
+    "macro avg": {
+        "precision": 0.6720743808586749,
+        "recall": 0.5415998628120036,
+        "f1-score": 0.54271589803723,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8024711742065758,
+        "recall": 0.8472594397076736,
+        "f1-score": 0.8026233564359756,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8571786519669256,
+        "recall": 0.9824813325674899,
+        "f1-score": 0.9155626923591597,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4649122807017544,
+        "recall": 0.08507223113964688,
+        "f1-score": 0.14382632293080053,
+        "support": 623.0
+    },
+    "accuracy": 0.8462850182704019,
+    "macro avg": {
+        "precision": 0.6610454663343399,
+        "recall": 0.5337767818535684,
+        "f1-score": 0.52969450764498,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.797645899397327,
+        "recall": 0.8462850182704019,
+        "f1-score": 0.7984392433569996,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8620951417004049,
+        "recall": 0.9784606547960942,
+        "f1-score": 0.916599408124832,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.5098039215686274,
+        "recall": 0.12520064205457465,
+        "f1-score": 0.20103092783505158,
+        "support": 623.0
+    },
+    "accuracy": 0.8489646772228989,
+    "macro avg": {
+        "precision": 0.6859495316345161,
+        "recall": 0.5518306484253345,
+        "f1-score": 0.5588151679799418,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.8086292634684689,
+        "recall": 0.8489646772228989,
+        "f1-score": 0.8080003427848726,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8524185587364265,
+        "recall": 0.9919586444572085,
+        "f1-score": 0.916910007963897,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.4716981132075472,
+        "recall": 0.04012841091492777,
+        "f1-score": 0.07396449704142011,
+        "support": 623.0
+    },
+    "accuracy": 0.8475030450669915,
+    "macro avg": {
+        "precision": 0.6620583359719868,
+        "recall": 0.5160435276860681,
+        "f1-score": 0.4954372525026586,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7946380867353323,
+        "recall": 0.8475030450669915,
+        "f1-score": 0.7889794225059913,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8531973127643693,
+        "recall": 0.9847788627225732,
+        "f1-score": 0.9142780962538328,
+        "support": 3482.0
+    },
+    "1": {
+        "precision": 0.38372093023255816,
+        "recall": 0.052969502407704656,
+        "f1-score": 0.09308885754583922,
+        "support": 623.0
+    },
+    "accuracy": 0.843361753958587,
+    "macro avg": {
+        "precision": 0.6184591214984637,
+        "recall": 0.518874182565139,
+        "f1-score": 0.5036834768998361,
+        "support": 4105.0
+    },
+    "weighted avg": {
+        "precision": 0.7819466949038776,
+        "recall": 0.843361753958587,
+        "f1-score": 0.7896493762257987,
+        "support": 4105.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8611182684875032,
+        "recall": 0.9797713280562885,
+        "f1-score": 0.9166209544706527,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.4732824427480916,
+        "recall": 0.10316139767054909,
+        "f1-score": 0.16939890710382516,
+        "support": 601.0
+    },
+    "accuracy": 0.8484546360917248,
+    "macro avg": {
+        "precision": 0.6672003556177974,
+        "recall": 0.5414663628634188,
+        "f1-score": 0.5430099307872389,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8030202297862603,
+        "recall": 0.8484546360917248,
+        "f1-score": 0.8046866447828502,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8582717308182514,
+        "recall": 0.9871005570214013,
+        "f1-score": 0.9181892555222253,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.5056179775280899,
+        "recall": 0.07487520798668885,
+        "f1-score": 0.13043478260869565,
+        "support": 601.0
+    },
+    "accuracy": 0.8504486540378864,
+    "macro avg": {
+        "precision": 0.6819448541731706,
+        "recall": 0.530987882504045,
+        "f1-score": 0.5243120190654604,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8054439876160112,
+        "recall": 0.8504486540378864,
+        "f1-score": 0.8001831642408117,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8623995853848148,
+        "recall": 0.9756669598358253,
+        "f1-score": 0.9155433287482806,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.45751633986928103,
+        "recall": 0.11647254575707154,
+        "f1-score": 0.1856763925729443,
+        "support": 601.0
+    },
+    "accuracy": 0.8469591226321037,
+    "macro avg": {
+        "precision": 0.6599579626270479,
+        "recall": 0.5460697527964484,
+        "f1-score": 0.5506098606606125,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8017478330032506,
+        "recall": 0.8469591226321037,
+        "f1-score": 0.8062088250988845,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8532249873031996,
+        "recall": 0.9850483729111698,
+        "f1-score": 0.9144101238263709,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.3108108108108108,
+        "recall": 0.03826955074875208,
+        "f1-score": 0.06814814814814814,
+        "support": 601.0
+    },
+    "accuracy": 0.8432203389830508,
+    "macro avg": {
+        "precision": 0.5820178990570052,
+        "recall": 0.511658961829961,
+        "f1-score": 0.49127913598725953,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7719710191895592,
+        "recall": 0.8432203389830508,
+        "f1-score": 0.7876395736313031,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)first_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8540293968575773,
+        "recall": 0.9879800644972149,
+        "f1-score": 0.9161342938697838,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.3787878787878788,
+        "recall": 0.04159733777038269,
+        "f1-score": 0.07496251874062969,
+        "support": 601.0
+    },
+    "accuracy": 0.8462113659022931,
+    "macro avg": {
+        "precision": 0.616408637822728,
+        "recall": 0.5147887011337988,
+        "f1-score": 0.49554840630520675,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7828379331587016,
+        "recall": 0.8462113659022931,
+        "f1-score": 0.790126258761952,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8609254498714652,
+        "recall": 0.9818235121665201,
+        "f1-score": 0.9174085741679222,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.4918032786885246,
+        "recall": 0.09983361064891846,
+        "f1-score": 0.16597510373443983,
+        "support": 601.0
+    },
+    "accuracy": 0.8497008973080757,
+    "macro avg": {
+        "precision": 0.6763643642799949,
+        "recall": 0.5408285614077193,
+        "f1-score": 0.541691838951181,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8056307278173906,
+        "recall": 0.8497008973080757,
+        "f1-score": 0.804843390785439,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8597842835130971,
+        "recall": 0.9815303430079155,
+        "f1-score": 0.9166324435318275,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.4661016949152542,
+        "recall": 0.09151414309484193,
+        "f1-score": 0.15299026425591097,
+        "support": 601.0
+    },
+    "accuracy": 0.8482053838484547,
+    "macro avg": {
+        "precision": 0.6629429892141756,
+        "recall": 0.5365222430513787,
+        "f1-score": 0.5348113538938692,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8008103962380961,
+        "recall": 0.8482053838484547,
+        "f1-score": 0.8022383882614321,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8630705394190872,
+        "recall": 0.9756669598358253,
+        "f1-score": 0.9159212880143113,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.46794871794871795,
+        "recall": 0.12146422628951747,
+        "f1-score": 0.1928665785997358,
+        "support": 601.0
+    },
+    "accuracy": 0.8477068793619142,
+    "macro avg": {
+        "precision": 0.6655096286839026,
+        "recall": 0.5485655930626714,
+        "f1-score": 0.5543939333070236,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8038810541988249,
+        "recall": 0.8477068793619142,
+        "f1-score": 0.8076072600087879,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8567415730337079,
+        "recall": 0.9835825271181472,
+        "f1-score": 0.91579091033165,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.4166666666666667,
+        "recall": 0.06655574043261231,
+        "f1-score": 0.11477761836441894,
+        "support": 601.0
+    },
+    "accuracy": 0.8462113659022931,
+    "macro avg": {
+        "precision": 0.6367041198501873,
+        "recall": 0.5250691337753798,
+        "f1-score": 0.5152842643480345,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7908180888047468,
+        "recall": 0.8462113659022931,
+        "f1-score": 0.7957986400244951,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)second_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.857544038805208,
+        "recall": 0.9847552037525652,
+        "f1-score": 0.9167576419213974,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.45263157894736844,
+        "recall": 0.07154742096505824,
+        "f1-score": 0.12356321839080461,
+        "support": 601.0
+    },
+    "accuracy": 0.8479561316051845,
+    "macro avg": {
+        "precision": 0.6550878088762883,
+        "recall": 0.5281513123588117,
+        "f1-score": 0.520160430156101,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7968879100976901,
+        "recall": 0.8479561316051845,
+        "f1-score": 0.79793664278334,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_10
+{
+    "0": {
+        "precision": 0.8612612612612612,
+        "recall": 0.9809440046907065,
+        "f1-score": 0.9172149122807016,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.4881889763779528,
+        "recall": 0.10316139767054909,
+        "f1-score": 0.17032967032967034,
+        "support": 601.0
+    },
+    "accuracy": 0.8494516450648056,
+    "macro avg": {
+        "precision": 0.6747251188196071,
+        "recall": 0.5420527011806278,
+        "f1-score": 0.543772291305186,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8053748098118922,
+        "recall": 0.8494516450648056,
+        "f1-score": 0.8053310562456644,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_22
+{
+    "0": {
+        "precision": 0.8587541655985644,
+        "recall": 0.9821166813251246,
+        "f1-score": 0.9163019693654267,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.45045045045045046,
+        "recall": 0.08319467554076539,
+        "f1-score": 0.1404494382022472,
+        "support": 601.0
+    },
+    "accuracy": 0.847457627118644,
+    "macro avg": {
+        "precision": 0.6546023080245075,
+        "recall": 0.532655678432945,
+        "f1-score": 0.528375703783837,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7975900248198963,
+        "recall": 0.847457627118644,
+        "f1-score": 0.8000787960780212,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_21
+{
+    "0": {
+        "precision": 0.8636481241914619,
+        "recall": 0.9785986514218704,
+        "f1-score": 0.9175371083012644,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.5034013605442177,
+        "recall": 0.12312811980033278,
+        "f1-score": 0.1978609625668449,
+        "support": 601.0
+    },
+    "accuracy": 0.8504486540378864,
+    "macro avg": {
+        "precision": 0.6835247423678398,
+        "recall": 0.5508633856111016,
+        "f1-score": 0.5576990354340546,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.8096829434955511,
+        "recall": 0.8504486540378864,
+        "f1-score": 0.8097291911561034,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_5
+{
+    "0": {
+        "precision": 0.8541508957860207,
+        "recall": 0.9923776018762827,
+        "f1-score": 0.9180905885543803,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.46938775510204084,
+        "recall": 0.03826955074875208,
+        "f1-score": 0.07076923076923078,
+        "support": 601.0
+    },
+    "accuracy": 0.8494516450648056,
+    "macro avg": {
+        "precision": 0.6617693254440308,
+        "recall": 0.5153235763125174,
+        "f1-score": 0.49442990966180556,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7965131471441783,
+        "recall": 0.8494516450648056,
+        "f1-score": 0.7911613422859668,
+        "support": 4012.0
+    }
+}
+
+File: ../outputs/output_0/csv/sorted\(lexiNVAJ)third_time_output_sorted.csv, Label Column: label_1
+{
+    "0": {
+        "precision": 0.8547443398626303,
+        "recall": 0.9850483729111698,
+        "f1-score": 0.9152819395260148,
+        "support": 3411.0
+    },
+    "1": {
+        "precision": 0.37037037037037035,
+        "recall": 0.04991680532445923,
+        "f1-score": 0.0879765395894428,
+        "support": 601.0
+    },
+    "accuracy": 0.8449651046859422,
+    "macro avg": {
+        "precision": 0.6125573551165003,
+        "recall": 0.5174825891178145,
+        "f1-score": 0.5016292395577288,
+        "support": 4012.0
+    },
+    "weighted avg": {
+        "precision": 0.7821848294775734,
+        "recall": 0.8449651046859422,
+        "f1-score": 0.791351095716972,
+        "support": 4012.0
+    }
+}
+

@@ -1,0 +1,26 @@
+﻿1-n shot,generation,prompt_num
+"Classify each word in the provided sentences into one of two categories: 'Conventional Metaphor' or 'Not a Metaphor'. For each word, if it is used as a conventional metaphor, label it with 'Yes'. If it is not a conventional metaphor, label it with 'No'. Ensure each word is evaluated independently and sequentially within its sentence context. Record your classification clearly after each word. Separate the classifications for different sentences with a line break.
+
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,4
+"Classify each word in each sentence as 'Yes' if it contains a conventional metaphor. A conventional metaphor is defined as a figurative expression that is widely recognized and used within the cultural context to represent abstract concepts, actions, or tangible entities. Any word in each sentence that does not utilize such well-established figurative language should be classified as 'No'. Ensure that conventional metaphors are identified accurately, especially those that are so ingrained in everyday language that they might be overlooked due to their familiarity.
+Output every word of each sentence with their classification,one word per row. Use an empty row to separate word lists from different sentences:
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,17
+"Carefully review the given sentences and classify each word or phrase accordingly. If a word or phrase is used as a conventional metaphor, conveying a meaning that differs from its literal one, and is commonly understood within the cultural context, label it with 'Yes'. If the word or phrase is used in a simile, employing 'like' or 'as' to create a comparison, it should not be labeled as a conventional metaphor; instead, classify such instances correctly as 'No'. Additionally, make sure to correctly label established metaphors used to describe abstract concepts, even if no comparison is made, as 'Yes'. Avoid the pitfall of classifying literal expressions as metaphors; only phrases that are non-literal and carry an understood abstract representation within the culture should be labeled 'Yes'. For concrete, clear uses of language that do not imply an alternate abstract meaning, assign a 'No' label. This distinction is crucial to prevent the misclassification observed in prior attempts, where similes were mistakenly labeled as metaphors and some metaphorical expressions were overlooked.
+
+Output every word of each sentence with their classification,one word per row. Use an empty row to separate word lists from different sentences:
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,18
+"For each sentence provided, determine if each word or phrase is used as a conventional metaphor, based on the criteria that it must be a widely recognized figurative expression, frequently employed, and documented with its metaphorical meaning in reputable dictionaries. Label each word or phrase as 'Yes' if it meets these criteria and is thus a conventional metaphor, or 'No' if it does not meet these criteria. Focus on the context to ensure that phrases often used metaphorically are not mistakenly interpreted literally. Avoid misclassifying literal phrases with metaphorical implications as conventional metaphors. Consider the surrounding linguistic environment and common usage to accurately assess the metaphorical status of each term.
+
+Output every word of each sentence with their classification,one word per row. Use an empty row to separate word lists from different sentences.
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,20
+"Analyze each sentence and classify words or phrases as 'Yes' if they are conventional metaphors, which must meet both these conditions: common usage in everyday language and their metaphorical meanings must be verified in reputable dictionaries. Classify as 'No' those phrases that, regardless of their metaphorical or idiomatic usage, are not documented with a metaphorical meaning in such dictionaries. Ensure that labels 'No' are also applied to expressions that seem metaphorical or are used in a metaphorical sense but lack dictionary documentation of their metaphorical meaning.
+
+Output:
+Output every word of each sentence with their classification,one word per row. Use an empty row to separate word lists from different sentences. 
+
+Sentences: {text}
+Labels: {label}",manual+ChatGPT4,21

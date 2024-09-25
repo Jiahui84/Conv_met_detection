@@ -1,0 +1,560 @@
+
+Prompt 4:
+
+(forautoprompt) C:\Users\TImaze>cd C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main
+
+(forautoprompt) C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main>python run_pipeline.py
+D:\anaconda\envs\forautoprompt\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Describe the task: Your task is to create an optimized functional prompt for the conventional metaphor labeling task.
+Initial prompt: Your task is to detect conventional metaphors. Proceed as follows: Analyze each sentence provided and write down each word separately, one word per row. Mark any conventional metaphorical word with ":1". Use an empty row to separate word lists from different sentences.
+D:\anaconda\envs\forautoprompt\lib\site-packages\langchain_core\_api\deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+Starting step 0
+Dataset is empty generating initial samples
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.51s/it]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.33it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:01<00:00,  5.28it/s]
+Previous prompt score:
+nan
+#########
+
+Get new prompt:
+Classify each word in the provided sentences into one of two categories: 'Conventional Metaphor' or 'Not a Metaphor'. For each word, if it is used as a conventional metaphor, label it with 'Yes'. If it is not a metaphor, label it with 'No'. Ensure each word is evaluated independently and sequentially within its sentence context. Record your classification clearly after each word. Separate the classifications for different sentences with a line break.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.81s/it]
+Starting step 1
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.02it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 20/20 [00:04<00:00,  4.14it/s]
+Previous prompt score:
+1.0
+#########
+
+Get new prompt:
+Analyze the context and usage of words in the given sentences to identify potential conventional metaphors. For each word, indicate whether it is being used as a conventional metaphor with the label 'Yes'. If the word is not being used as a metaphor, assign the label 'No'. It is crucial to consider the common usage and figurative meaning of words to accurately discern metaphors from literal language. After assessing each word within its sentential context, record your classification. Use line breaks to separate the analysis of different sentences.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:11<00:00, 11.35s/it]
+Starting step 2
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.88it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 30/30 [00:06<00:00,  4.43it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+For each sentence provided, examine the words within their context and identify any that are employed in a conventional metaphorical sense. Assign the label 'Yes' to words that are part of a conventional metaphor, reflecting a figurative meaning often recognized in common language use. Assign the label 'No' to words that are used in a literal sense, representing their standard, non-figurative meaning. Your classification should be based on the distinction between metaphorical and literal usage, with careful attention to the established figurative connotations of words. List your labeled classifications sequentially for each word, and use a line break to separate the analyses for different sentences.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:08<00:00,  8.81s/it]
+Starting step 3
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.81it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 40/40 [00:06<00:00,  5.75it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Examine each sentence provided and determine the usage of each word within context. Label words 'Yes' if they are used metaphorically in a conventional manner, often seen in everyday language to illustrate abstract concepts with familiar imagery. Label words 'No' if they are not part of a conventional metaphor and are used in their literal sense. Focus particularly on distinguishing literal language from metaphors commonly used to describe emotions, states, or processes, correcting the previous misclassification of all metaphorical usage as literal.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:08<00:00,  8.24s/it]
+Starting step 4
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.04it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:22<00:00,  2.22it/s]
+Previous prompt score:
+0.0
+
+
+Prompt 17:
+
+(forautoprompt) C:\Users\TImaze>cd C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main
+
+(forautoprompt) C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main>python run_pipeline.py
+D:\anaconda\envs\forautoprompt\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Describe the task: Your task is to create an optimized functional prompt for the conventional metaphor labeling task.
+Initial prompt: A conventional metaphor is a figure of speech that is widely used and understood within a culture, often so commonplace that it's considered a standard way of expressing a particular concept. Your task will be to detect conventional metaphors within given sentences. Please analyze the following sentences and appended ":1" to any word that is part of a conventional metaphor.
+D:\anaconda\envs\forautoprompt\lib\site-packages\langchain_core\_api\deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+Starting step 0
+Dataset is empty generating initial samples
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:09<00:00,  9.86s/it]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.37it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.90it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Evaluate each sentence to determine if it contains a conventional metaphor. Respond with 'Yes' if a conventional metaphor is present, and 'No' if there is no conventional metaphor. Focus on common metaphoric expressions related to navigation, speech, mental creativity, and avoid including words that are not part of a metaphorical expression in your response.Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.15s/it]
+Starting step 1
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.69it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 20/20 [00:02<00:00,  8.40it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify each sentence provided by labeling it with 'Yes' if it contains a conventional metaphor and 'No' if it does not. When assessing for metaphors, specifically consider expressions within the domains of navigation, speech, mental creativity, and other culturally common metaphorical themes. Ensure to recognize metaphors even when they are subtle or embedded within the sentence structure.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:09<00:00,  9.44s/it]
+Starting step 2
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.74it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 30/30 [00:03<00:00,  8.34it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Your task is to classify sentences as containing a conventional metaphor ('Yes') or not ('No'). A sentence contains a conventional metaphor if it uses language that equates objects or activities with unrelated concepts in a way that is understood and commonly used within a culture. Evaluate the sentences carefully, paying particular attention to language that may not be literally true but is used to convey a deeper or more complex meaning. Consider all domains of life, and when in doubt, lean towards classifying a sentence as metaphoric. Ignore literal expressions.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:09<00:00,  9.73s/it]
+Starting step 3
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:03<00:00,  3.30it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 40/40 [00:04<00:00,  8.63it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Your task is to identify conventional metaphors within sentences. You will label each sentence with 'Yes' if it uses language that represents an idea, concept, or entity through a figurative expression that is culturally recognized and understood, and 'No' if it does not. Focus on identifying metaphorical language that describes abstract concepts, emotions, or non-tangible phenomena with tangible terms, as this is a common area of error. Pay special attention to figurative expressions pertaining to sensations, emotions, or common experiences, such as describing feelings as weather (e.g., 'a storm of anger'), ideas as physical spaces (e.g., 'a maze of thoughts'), or qualities as substances (e.g., 'the fabric of trust').
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.65s/it]
+Starting step 4
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.14it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.88it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Determine if each provided sentence includes a conventional metaphor commonly accepted within cultural context. Mark 'Yes' for sentences that utilize figurative language to express ideas or actions that aren't to be taken literally, such as 'a heart of stone' for describing someone as unemotional. Pay specific attention to differentiating between literal and metaphorical uses of language. For example, 'sowing seeds' can be literal if referring to agriculture or metaphorical if referring to the spread of ideas. If a sentence does not contain a metaphor, label it 'No'.
+Starting step 5
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.45it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify sentences as containing a conventional metaphor with 'Yes' if the sentence uses figurative language that symbolically represents a concept, action, or object and is widely recognized within a cultural context. Label 'No' if the sentence does not contain such metaphorical language. Corrections from previous errors include rigorous distinction between literal and figurative language and avoiding the assumption that all sentences contain metaphors. Be cautious not to overlook phrases that are culturally understood as metaphorical, such as 'a heart of stone' or 'planted seeds of doubt', and ensure to apply the context accurately when determining whether expressions like 'sowing seeds' are used metaphorically or literally.
+Starting step 6
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  9.33it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Your task is to discern and label whether each sentence utilizes a conventional metaphor, with 'Yes' indicating the presence of a culturally accepted figurative expression, and 'No' for its absence. Focus on detecting established metaphors that are often taken for granted, such as 'a storm of emotions' or 'a blanket of security'. Ensure to distinguish between literal and metaphorical language, even in subtle instances where metaphors have become deeply integrated into everyday speech. Avoid the misclassification of culturally recognized metaphors as literal statements.
+Starting step 7
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.69it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Examine each sentence and determine if a conventional metaphor is present. If the sentence expresses an idea or concept using figurative language that is a well-known and culturally ingrained expression, categorize it as 'Yes'. This includes subtle metaphors that have become commonplace, such as 'drowning in paperwork' or 'bright future', as well as conceptual metaphors that use one domain to understand another, like 'a relationship is a journey'. If there is no conventional metaphor, label the sentence as 'No'. Be particularly vigilant for metaphors that might be mistaken for literal language due to their frequent usage in everyday conversation.
+Starting step 8
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.69it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Identify and classify each sentence as 'Yes' if it contains a conventional metaphor that employs figurative language to illustrate an abstract concept, action, or tangible entity, which is widely recognized within the cultural context. Such metaphors may take the form of similes or metaphors commonly found in literature, or personify abstract notions in everyday language, like 'a theater's dimming lights' to represent a decrease in vibrancy, or 'a window into the soul' to convey deep understanding. Similarly, recognize conventional metaphors used to describe complex situations or intangible elements, such as 'a two-edged sword' for a situation with both pros and cons, or 'seeds of doubt' to imply inducing skepticism. Classify sentences without these characteristics as 'No'. Ensure accurate metaphor detection by not defaulting to a literal interpretation when encountering phrases that are part of common parlance.
+Starting step 9
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.51it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Analyze each sentence to determine if it includes a conventional metaphor. Assign 'Yes' if the sentence uses a commonly recognized figurative expression within a cultural context, reflecting a symbolic representation of abstract concepts, actions, or entities. Examples include expressions like 'the city's energy dimmed,' representing a decrease in vitality, or 'the novel was a window,' depicting deep insight. Label 'No' if the sentence does not contain a conventional metaphor. Pay special attention to sentences that may describe complex situations, such as 'the deal was a two-edged sword,' illustrating dilemmas with both advantages and disadvantages, or 'the lawyer planted seeds of doubt,' highlighting the influence of skepticism on decision-making. Ensure to differentiate between literal and metaphorical usage in your classification.
+Starting step 10
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.72it/s]
+Previous prompt score:
+0.02
+#########
+
+Get new prompt:
+When reviewing sentences, classify each as 'Yes' if it contains a conventional metaphor known and used within the cultural context. This encompasses figurative language that symbolizes abstract notions, actions, or concrete items, like 'wove a rich tapestry' for intricate storytelling, 'a labyrinth' to describe something complex, 'a window into the soul' for deep understanding, or 'a two-edged sword' for a scenario with both positive and negative aspects. Classify a sentence as 'No' if it lacks such a conventional metaphor. Ensure to recognize frequently used metaphors as conventional, even if they blend seamlessly into regular speech.
+Starting step 11
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  9.09it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify each sentence as 'Yes' if it contains a conventional metaphor. A conventional metaphor is defined as a figurative expression that is widely recognized and used within the cultural context to represent abstract concepts, actions, or tangible entities. For example, classify sentences with expressions like 'a stitch in time saves nine' for preventative measures, 'heart of stone' for emotional unresponsiveness, or 'a feather in one's cap' for a proud achievement as 'Yes'. Any sentence that does not utilize such well-established figurative language should be classified as 'No'. Ensure that conventional metaphors are identified accurately, especially those that are so ingrained in everyday language that they might be overlooked due to their familiarity.
+Starting step 12
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [00:11<00:00,  4.22it/s]
+Previous prompt score:
+0.14
+
+Prompt 18:
+
+
+(forautoprompt) C:\Users\TImaze>cd C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main
+
+(forautoprompt) C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main>python run_pipeline.py
+D:\anaconda\envs\forautoprompt\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Describe the task: Your task is to create an optimized functional prompt for the conventional metaphor labeling task.
+Initial prompt: You will be trained to recognize conventional metaphors, which are figures of speech that are commonly understood by a particular culture or society to mean something other than their literal meaning. Now, analyze a set of sentences and marking any conventional metaphorical words with ":1".
+D:\anaconda\envs\forautoprompt\lib\site-packages\langchain_core\_api\deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+Starting step 0
+Dataset is empty generating initial samples
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.29s/it]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:04<00:00,  2.46it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:01<00:00,  5.83it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify each word or phrase within the provided sentences as 'Yes' if it is a conventional metaphor commonly used and understood within the culture to represent an idea different than its literal meaning, or as 'No' if it is used literally. Label each metaphorical word or phrase with a 'Yes' and each literal word or phrase with a 'No'.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.20s/it]
+Starting step 1
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.97it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 20/20 [00:02<00:00,  7.78it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Identify and label each word or phrase within the following sentences. If the word or phrase is a conventional metaphor that is widely recognized and signifies a concept different from its literal meaning in the relevant cultural context, tag it with 'Yes'. If the word or phrase is used with its literal meaning, tag it with 'No'. Ensure that commonly understood metaphorical expressions are correctly identified and not misinterpreted as literal language.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.01s/it]
+Starting step 2
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.45it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 30/30 [00:03<00:00,  8.65it/s]
+Previous prompt score:
+0.03333333333333333
+#########
+
+Get new prompt:
+For each provided sentence, evaluate the words or phrases in context. Assign a label of 'Yes' to words or phrases that are used as conventional metaphors, which are expressions widely recognized within the culture to imply a meaning other than their literal one, and often used in everyday language. Assign a label of 'No' to words or phrases that are used in their direct, literal sense. Take special care to accurately classify expressions that may seem literal but are in fact conventional metaphorical expressions in the cultural context.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:08<00:00,  8.68s/it]
+Starting step 3
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.56it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 40/40 [00:04<00:00,  8.49it/s]
+Previous prompt score:
+0.025
+#########
+
+Get new prompt:
+Review the sentences provided and discern the use of language within them. For each word or phrase, determine its usage context: if it is a conventional metaphor understood within the cultural context to have an abstract meaning beyond its literal interpretation, label it with 'Yes'. If the word or phrase is used in a clear, concrete sense with no implied abstract meaning, label it with 'No'. Be mindful to avoid bias towards labeling expressions as metaphors when they are indeed used literally, and ensure accuracy by considering idiomatic expressions and culturally specific metaphorical usage.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.84s/it]
+Starting step 4
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.40it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.43it/s]
+Previous prompt score:
+0.06
+#########
+
+Get new prompt:
+Analyze the sentences and classify each word or phrase based on its use. If a word or phrase embodies a conventional metaphor, where it is not to be taken in a literal sense but represents a different idea that is culturally recognized and understood (often employing personification, natural elements, or physical action verbs to convey abstract concepts or emotions), label it with 'Yes'. If it is used in its literal, concrete sense, label it with 'No'. Pay attention to expressions that may not appear metaphorical at first glance but are established metaphors within the cultural lexicon, especially those involving personification, nature imagery, or action verbs metaphorically describing abstract processes.
+Starting step 5
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.76it/s]
+Previous prompt score:
+0.04
+#########
+
+Get new prompt:
+Examine each sentence and identify expressions within the text. Wherever you encounter a phrase that implies an abstract meaning beyond its literal interpretation, especially by ascribing human characteristics, depicting natural phenomena, or using physical action verbs in a non-literal sense to describe emotions, concepts, or processes, label such a phrase with 'Yes'. If the phrase is used in its precise, conventional sense, representing the exact meaning of the words without any abstract or implied significance, assign it a 'No' label. Focus on effectively recognizing metaphorical language that includes personification, nature-related imagery, or action verbs that figuratively express non-tangible ideas, as these are areas previously identified with high incidence of misclassification.
+Starting step 6
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.35it/s]
+Previous prompt score:
+0.04
+#########
+
+Get new prompt:
+Carefully review the given sentences and classify each word or phrase accordingly. If a word or phrase is used as a conventional metaphor, conveying a meaning that differs from its literal one, and is commonly understood within the cultural context, label it with 'Yes'. If the word or phrase is used in a simile, employing 'like' or 'as' to create a comparison, it should not be labeled as a metaphor; instead, classify such instances correctly as 'No'. Additionally, make sure to correctly label established metaphors used to describe abstract concepts, even if no comparison is made, as 'Yes'. Avoid the pitfall of classifying literal expressions as metaphors; only phrases that are non-literal and carry an understood abstract representation within the culture should be labeled 'Yes'. For concrete, clear uses of language that do not imply an alternate abstract meaning, assign a 'No' label. This distinction is crucial to prevent the misclassification observed in prior attempts, where similes were mistakenly labeled as metaphors and some metaphorical expressions were overlooked.
+Starting step 7
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.97it/s]
+Previous prompt score:
+0.14
+#########
+
+Get new prompt:
+In this classification task, you are to examine each sentence and determine whether words or phrases are used metaphorically. Label 'Yes' for phrases that are non-literal and convey an abstract concept familiar within the cultural context, including those that are creatively coined or established metaphors expressing ideas like stability or change. Label 'No' for phrases used in their literal, direct sense, or when forming similes using 'like' or 'as'. Be particularly aware of phrases that might traditionally be misclassified as literal when they are indeed metaphorical, such as those that personify emotions or depict scenarios using natural phenomena in a symbolic way. Accurately distinguishing these cases is essential for reducing false negatives and improving precision in metaphor identification.
+Starting step 8
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.87it/s]
+Previous prompt score:
+0.06
+#########
+
+Get new prompt:
+Analyze each sentence, paying close attention to the language used. Label words or phrases as 'Yes' if they serve as conventional metaphors, representing an idea or concept beyond their literal meaning, and are commonly recognized as such within the cultural context. Include both established metaphors like 'pillar of strength' for support and creative expressions that illustrate abstract ideas metaphorically, such as 'drowning in paperwork' to imply being overwhelmed. Label as 'No' any literal uses of language, direct descriptions, or comparisons made with 'like' or 'as' that do not imply a deeper abstract meaning. This classification is crucial for accurately identifying metaphors, including those that might have been previously mislabeled due to a lack of recognition of metaphorical intent.
+Starting step 9
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  8.29it/s]
+Previous prompt score:
+0.06
+#########
+
+Prompt 20:
+
+(forautoprompt) C:\Users\TImaze>cd C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main
+
+(forautoprompt) C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main>python run_pipeline.py
+D:\anaconda\envs\forautoprompt\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Describe the task: Your task is to create an optimized functional prompt for the conventional metaphor labeling task.
+Initial prompt: Context: Metaphors are figures of speech where a word or phrase is applied to an object or action to which it's not literally applicable. Conventional metaphors are of high frequency in daily usage and the meanings have been lexicalized in dictionary senses. Guidelines: Pay close attention to words that represent one thing in terms of another. Focus on widely recognized and used metaphors. Only mark words that are explicitly metaphorical in the given context. Based on the guidelines, process the following sentences, mark conventional metaphorical words with ':1'.
+D:\anaconda\envs\forautoprompt\lib\site-packages\langchain_core\_api\deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+Starting step 0
+Dataset is empty generating initial samples
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:09<00:00,  9.11s/it]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.49it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:01<00:00,  5.43it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify each word in the sentence as 'Yes' if it is used as a conventional metaphor, or 'No' if it is not. A word is considered metaphorical if it conveys a non-literal meaning that is widely recognized and has become part of the standard dictionary definition through frequent usage. Exclude words that are only metaphorical in a specialized context or not immediately recognized as metaphors. Mark each word according to its function in the sentence, not based on its literal definition alone.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.82s/it]
+Starting step 1
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.88it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 20/20 [00:05<00:00,  3.44it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+For each word in the sentence, determine whether it is used as a conventional metaphor or not. A word is labeled as a conventional metaphor ('Yes') if it is part of an expression that has a widely recognized figurative meaning and is commonly used to the extent that it is included as a standard figurative definition in dictionaries. If the word is used literally or its metaphorical use is context-specific, unusual, or not part of standard language (i.e., not included in dictionary figurative definitions), label it as 'No'. Ensure that metaphors related to human-like actions attributed to non-human entities, navigational metaphors, and metaphors describing fragility or instability are carefully considered for their conventional usage before labeling.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.88s/it]
+Starting step 2
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:01<00:00,  5.14it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 30/30 [00:03<00:00,  8.43it/s]
+Previous prompt score:
+0.03333333333333333
+#########
+
+Get new prompt:
+Review each word in the sentence and indicate with 'Yes' if the word is a conventional metaphor, which means it is used in a way that is widely recognized and has been incorporated into standard dictionaries as having a figurative meaning. If the word is used in its literal sense, or if its metaphorical meaning is not commonly recognized or idiomatic, mark it with 'No'. Do not label words as metaphors simply because they can have a metaphorical interpretation; consider the actual usage in context and the commonality of the figurative meaning.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:12<00:00, 12.98s/it]
+Starting step 3
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.12it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 40/40 [00:04<00:00,  8.16it/s]
+Previous prompt score:
+0.02564102564102564
+#########
+
+Get new prompt:
+In the following sentence, classify each word as either 'Yes' or 'No' for its use as a conventional metaphor. A 'Yes' indicates that the word is part of a commonly understood figurative expression that is widely recognized and has been incorporated into the lexicon as evidenced by standard dictionary definitions. A 'No' indicates that the word is either used in its literal sense, is part of a novel or creative metaphor, an idiomatic expression not widely recognized as metaphorical, or is a hyperbolic statement not commonly cataloged in dictionaries as a figurative expression. Focus on the actual usage within the given context, making a clear distinction between standardized conventional metaphors and other forms of figurative language.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.34s/it]
+Starting step 4
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.78it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:10<00:00,  4.86it/s]
+Previous prompt score:
+0.05
+#########
+
+Get new prompt:
+Determine whether each word in the sentence functions as a conventional metaphor by answering 'Yes' or 'No'. Label the word 'Yes' if it is part of a standard figurative expression that is widely understood and included in dictionary definitions as a metaphor. If the word is used literally, is part of a novel or unique metaphor, or is an idiom or expression not commonly recognized as metaphorical in dictionaries, label it as 'No'. Be meticulous in differentiating terms that are part of everyday language as conventional metaphors from those that are used creatively or are context-dependent.
+Starting step 5
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.51it/s]
+Previous prompt score:
+0.04
+#########
+
+Get new prompt:
+Assess each word within the given sentence and label it as 'Yes' or 'No' for its usage as a conventional metaphor. 'Yes' should be used when the word is part of a widely accepted figurative expression that has a clear, established meaning in standard dictionaries as a metaphor. 'No' should be selected when the word is employed in a literal sense, is an inventive or context-specific metaphor, or is an idiomatic phrase that is not commonly documented as metaphorical in dictionaries. Focus solely on whether the expression is a conventional metaphor as per dictionary documentation, avoiding the inclusion of novel, unique, or creative metaphors that lack standardized recognition.
+Starting step 6
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.34it/s]
+Previous prompt score:
+0.0425531914893617
+#########
+
+Get new prompt:
+For each word in the sentence, decide if it represents a conventional metaphor by labeling it as 'Yes' or 'No'. Use 'Yes' exclusively for words that are part of established metaphors widely acknowledged in dictionaries. Reserve 'No' for words used in a literal meaning, those that belong to creative or context-specific metaphors, or idiomatic phrases not generally recognized as metaphorical in standard dictionaries. It is crucial to avoid labeling words as 'Yes' if they are not part of metaphors that are already standardized and familiar in the language according to dictionary entries.
+Starting step 7
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  8.28it/s]
+Previous prompt score:
+0.0425531914893617
+#########
+
+Get new prompt:
+Label each word in the given sentence as 'Yes' or 'No' based on its role in a conventional metaphor. A word should be labeled 'Yes' only if it forms an integral part of a widely recognized metaphorical expression that is explicitly documented as such in standard dictionaries. 'No' should be used for words in literal usage, those that are components of novel or context-bound metaphors, or idiomatic expressions not officially cataloged as metaphorical in reference materials. Carefully distinguish between prevalent, dictionary-listed metaphors and other figurative language that may appear metaphorical but is not formally recognized.
+Starting step 8
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:12<00:00,  3.93it/s]
+Previous prompt score:
+0.1111111111111111
+#########
+
+Get new prompt:
+Classify each word in the sentence according to whether it is used as a part of a conventional metaphor, with only two possible labels: 'Yes' or 'No'. Label a word 'Yes' if it is a component of a metaphor that is well-established, widely recognized, and explicitly defined as metaphorical in reputable dictionaries. Label a word 'No' if it is used literally, is part of a novel or situation-specific metaphor, or is an expression or word that, while potentially suggestive of metaphorical use, is not officially recorded as a metaphor in authoritative dictionaries. It is imperative to strictly adhere to the criterion of dictionary-acknowledged conventional metaphors to avoid the misclassification of words.
+Starting step 9
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:08<00:00,  5.70it/s]
+Previous prompt score:
+0.058823529411764705
+#########
+
+Get new prompt:
+For each word in the sentence provided, determine its usage in the context of conventional metaphors by labeling with 'Yes' or 'No'. Assign 'Yes' if the word is part of a metaphorical expression that is well-known, and its metaphorical usage is explicitly listed in standard dictionaries. Use 'No' for words that are used in their literal sense, are elements of new or context-specific metaphors, or are part of idiomatic expressions that are not identified as metaphorical in dictionaries. Ensure that only those metaphors which are clearly documented and recognized as conventional by linguistic authorities are labeled as 'Yes', effectively differentiating them from all other figurative language.
+Starting step 10
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.18it/s]
+Previous prompt score:
+0.023809523809523808
+#########
+
+Prompt 21:
+
+(forautoprompt) C:\Users\TImaze>cd C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main
+
+(forautoprompt) C:\Users\TImaze\Desktop\AutoPrompt-main\AutoPrompt-main>python run_pipeline.py
+D:\anaconda\envs\forautoprompt\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Describe the task: Your task is to create an optimized functional prompt for the conventional metaphor labeling task.
+Initial prompt: Objective: detect conventional metaphors within the provided sentences by considering the context and overall message. Analyze each sentence to differentiate between literal language and metaphorical usage. Criteria for Conventional Metaphors: 1. The metaphorical usage must be of high frequency and commonly understood. 2. It should be conventional, meaning it's recognized in dictionaries with its metaphorical meaning. Instructions: 1. Read each input sentence thoroughly to understand its context and intent. 2. Detect words or phrases used metaphorically. 3. Check if these metaphorical uses are common and listed in dictionary entries as such. 4. Compile a list of all the words from each sentence. 5. Mark each conventional metaphor with ':1'. Output: Provide a list of all the words of each input sentences, with conventional metaphorical words marked with ':1'.
+D:\anaconda\envs\forautoprompt\lib\site-packages\langchain_core\_api\deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+Starting step 0
+Dataset is empty generating initial samples
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.67s/it]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.18it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.31it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Classify each word or phrase in the provided sentences as 'Yes' if it is a conventional metaphor or 'No' if it is not. A conventional metaphor is defined as a figurative expression that is widely recognized, used frequently in language, and documented with a metaphorical meaning in dictionaries. Focus specifically on identifying phrases that are commonly understood metaphorical expressions, such as 'bubbly personality,' 'Time is a thief,' 'wheels of justice,' and 'double-edged sword.' Ensure to consider the context in which each word or phrase is used to accurately determine its conventional metaphor status.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:07<00:00,  7.27s/it]
+Starting step 1
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.07it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 20/20 [00:02<00:00,  7.85it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Evaluate each given sentence and classify whether each word or phrase is a conventional metaphor or not, with 'Yes' for conventional metaphors and 'No' for non-metaphorical language. A conventional metaphor is a well-established figurative expression that is frequently used, easily recognized by speakers of the language, and has its metaphorical meaning clearly documented in standard dictionaries. Prioritize recognizing phrases that are established metaphors in the language, such as 'battleground' and 'bubbly personality,' which may be misinterpreted as literal expressions if not evaluated in context. Avoid classifying all instances as non-metaphors; carefully analyze the context to determine the metaphor status of each word or phrase.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:08<00:00,  8.77s/it]
+Starting step 2
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.54it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 30/30 [00:03<00:00,  8.97it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+For each sentence provided, determine if each word or phrase is used as a conventional metaphor, based on the criteria that it must be a widely recognized figurative expression, frequently employed, and documented with its metaphorical meaning in reputable dictionaries. Label each word or phrase as 'Yes' if it meets these criteria and is thus a conventional metaphor, or 'No' if it does not meet these criteria. Focus on the context to ensure that phrases often used metaphorically, like 'evaporated like morning dew' or 'courtroom was a battleground', are not mistakenly interpreted literally. Avoid misclassifying literal phrases with metaphorical implications, such as 'conversation was a minefield' or 'handshake is a delicate dance', as conventional metaphors. Consider the surrounding linguistic environment and common usage to accurately assess the metaphorical status of each term.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.95s/it]
+Starting step 3
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  3.82it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 40/40 [00:04<00:00,  8.38it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Determine if each word or phrase in the sentences provided is used conventionally in a metaphorical sense. To be considered a conventional metaphor, the expression must not only be metaphorical but also a part of everyday language and recognized in reputable dictionaries with a metaphorical meaning. Do not label idiomatic expressions, similes, or creative metaphors that lack frequent everyday use as 'Yes'. Instead, only words or phrases that are true conventional metaphors, understood by the majority and documented, should be labeled 'Yes'. All other terms should be labeled 'No'.
+Processing samples: 100%|████████████████████████████████████████████████████████████████| 1/1 [00:10<00:00, 10.78s/it]
+Starting step 4
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 10/10 [00:02<00:00,  4.54it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  9.02it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Inspect each sentence and label each word or phrase as 'Yes' if it represents a conventional metaphor, meaning it is a familiar figurative expression commonly used and acknowledged in reputable dictionaries. Label it as 'No' if it does not meet these criteria, regardless of whether it is metaphorical, idiomatic, or creative. Ensure accurate classification by considering the typical usage and dictionary recognition of the expression within its context.
+Starting step 5
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.54it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Review each sentence and classify words or phrases as 'Yes' if they are conventional metaphors, meaning they are not only widely used in everyday language but also officially documented with a metaphorical meaning in reputable dictionaries. Classify as 'No' if the word or phrase, while possibly metaphorical, idiomatic, or creative, is not a standard, recognized metaphor in such dictionaries. In interpreting the context, avoid overestimating the frequency of use or dictionary acknowledgment for figurative expressions that may be familiar but are not established as conventional metaphors.
+Starting step 6
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.98it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Analyze each sentence and tag words or phrases with 'Yes' if they are conventional metaphors, which are figurative expressions that are both commonly used in everyday speech and recorded with a metaphorical meaning in standard dictionaries. Tag with 'No' if the expression is metaphorical, idiomatic, or inventive but not recognized and documented in dictionaries as a standard metaphor. Ensure that only expressions that meet both criteria of common usage and dictionary documentation are labeled as 'Yes', while all others, irrespective of their metaphorical or idiomatic nature, are labeled as 'No'.
+Starting step 7
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.79it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Evaluate each sentence, and categorize words or phrases as 'Yes' if they are established conventional metaphors, which require both a high frequency of everyday usage and a clear inclusion in reputable dictionaries as a metaphor. If a word or phrase is merely metaphorical, idiomatic, or newly coined but lacks documentation of its metaphorical meaning in recognized dictionaries, it should be categorized as 'No'. Focus on the necessity of dictionary documentation for conventional status, and do not conflate creative or situational metaphors with conventional metaphors.
+Starting step 8
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.81it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Assign a 'Yes' label to words or phrases in each sentence if they are conventional metaphors that are both frequently used in everyday language and have a metaphorical meaning that is explicitly recorded in reputable dictionaries. Assign a 'No' label to expressions that, while they may be metaphorical, idiomatic, or unusual, do not have a metaphorical meaning that is documented in such dictionaries. Do not rely on the novelty or creativity of an expression; focus strictly on the criteria of regular usage and dictionary documentation to determine its conventionality.
+Starting step 9
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.98it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Examine sentences to identify whether words or phrases are 'Yes' for conventional metaphors, which are expressions firmly established through common use in everyday language and explicitly documented with a metaphorical meaning in reputable dictionaries. Otherwise, label them as 'No', especially if they are unique, creative metaphors or idioms that lack official metaphorical documentation in dictionaries. Prioritize the presence of dictionary documentation over subjective judgments of metaphoric creativity.
+Starting step 10
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.48it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Review each sentence, and mark words or phrases as 'Yes' if they are conventional metaphors, which are not only widely used in daily communication but also have their metaphorical meanings listed in established dictionaries. Tag as 'No' those expressions that are metaphorical, creative, or idiomatic but are not documented with a metaphorical meaning in such dictionaries. Ignore the creativity or novelty of the expression and adhere strictly to the twin criteria of frequent everyday use and dictionary inclusion to determine the conventional status.
+Starting step 11
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:05<00:00,  8.57it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+For each sentence provided, identify and label words or phrases as 'Yes' only if they meet the following two specific criteria: they are frequently encountered in daily language, and they have a metaphorical interpretation officially recognized in established dictionaries. If a word or phrase does not satisfy both criteria, label it as 'No'. This includes expressions that might be metaphorical, idiomatic, or creative but lack official metaphorical recognition in reputable dictionaries. Abstain from considering the originality or the creativity of a metaphor, and concentrate solely on verifying the regular use and dictionary documentation for conventional metaphors.
+Starting step 12
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.99it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Label words or phrases in each sentence as 'Yes' if they represent conventional metaphors, which means they are both commonly used in everyday speech and their metaphorical meanings are clearly documented in reputable dictionaries. Assign a 'No' label to metaphors that, although possibly used metaphorically or appearing idiomatic, do not have their metaphorical interpretations recorded in such dictionaries. Disregard whether the expression is novel or creative; base your judgment solely on the established criteria of frequency in everyday language and presence in dictionary listings.
+Starting step 13
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  8.19it/s]
+Previous prompt score:
+0.0
+#########
+
+Get new prompt:
+Analyze each sentence and classify words or phrases as 'Yes' if they are conventional metaphors, which must meet both these conditions: common usage in everyday language and their metaphorical meanings must be verified in reputable dictionaries. Classify as 'No' those phrases that, regardless of their metaphorical or idiomatic usage, are not documented with a metaphorical meaning in such dictionaries. Ensure that labels 'No' are also applied to expressions that seem metaphorical or are used in a metaphorical sense but lack dictionary documentation of their metaphorical meaning.
+Starting step 14
+Processing samples: 0it [00:00, ?it/s]
+Processing samples: 100%|██████████████████████████████████████████████████████████████| 50/50 [00:06<00:00,  7.92it/s]
+Stop criteria reached
+Calibrated prompt score: 0.0
+Calibrated prompt: Analyze each sentence and classify words or phrases as 'Yes' if they are conventional metaphors, which must meet both these conditions: common usage in everyday language and their metaphorical meanings must be verified in reputable dictionaries. Classify as 'No' those phrases that, regardless of their metaphorical or idiomatic usage, are not documented with a metaphorical meaning in such dictionaries. Ensure that labels 'No' are also applied to expressions that seem metaphorical or are used in a metaphorical sense but lack dictionary documentation of their metaphorical meaning.

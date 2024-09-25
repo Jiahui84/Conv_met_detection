@@ -1,0 +1,414 @@
+1. Letter Policy
+and
+politics	B-ENT
+at
+the
+Labour+Party	B-ENT
+Conference
+
+2. A
+letter
+dropped	B-ENT
+through
+the
+post
+from
+the
+President
+of
+the
+Socialist
+Republic
+of
+Montenegro
+inviting
+me
+to
+the
+funeral
+said
+John
+Kennedy
+a
+Conservative+Party	B-ENT
+member
+who
+lives
+in
+Barking
+and
+is
+a
+distant
+relative
+of
+Nicholas
+
+3. Another
+response
+to
+a
+visual
+stimulus
+was
+Thomson
+series
+of
+musical	B-ENT
+portraits	B-ENT
+of
+people
+such+as
+Picasso
+and
+Aaron
+Copland
+
+4. But
+the
+villages
+are
+dying	B-ENT
+becoming	B-ENT
+suburbs	B-ENT
+or
+dormitories	B-ENT
+where
+few
+people
+work
+but
+many
+sleep
+
+5. It
+takes
+all
+sorts
+
+6. The
+phrase
+universal
+primacy
+has
+a
+spiritual	B-ENT
+meaning
+
+7. In
+Liverpool
+a
+dockers
+spokesman
+with
+the
+Transport
+and
+General
+Workers
+Union
+admitted
+Drivers
+are
+n't
+happy
+handling	B-ENT
+some
+of
+these
+commodities
+but
+at+least
+a
+lorry-driver
+has
+more
+idea
+of
+what
+he
+is
+handling
+than
+a
+docker
+who
+could
+have
+a
+consignment
+and
+just
+not
+know
+what
+it
+is
+
+8. Dr
+Slevin
+agreed
+that
+this
+is
+often
+beneficial
+but
+is
+concerned
+about
+other
+aspects	B-ENT
+of
+such
+therapies
+
+9. By
+STEPHEN
+GOLD
+
+10. If
+Dedham
+Hall
+is
+fully
+booked	B-ENT
+and
+it
+may
+well
+be
+try
+the
+best
+bed-and-breakfast
+we
+have
+ever
+found
+just
+a
+few
+miles
+away
+at
+the
+Old
+Vicarage
+Higham
+near
+Colchester
+
+11. The
+loveliest	B-ENT
+to
+my
+mind	B-ENT
+is
+Melford
+Hall
+whose
+charming
+octagonal
+Jacobean
+gatehouse
+is
+reached
+along
+an
+avenue
+of
+clipped
+yew
+trees
+and
+with
+its
+high
+windows
+flooding	B-ENT
+the
+octagon
+with
+light
+is
+my
+fantasy	B-ENT
+of
+the
+ideal
+study
+
+12. And
+they
+told
+it
+without
+on-screen
+questioning
+though
+the
+programme
+is
+skilfully
+structured	B-ENT
+to
+give
+it
+a
+coherence	B-ENT
+it
+might
+have
+lacked
+
+13. From
+the
+resulting
+corner
+Rhodes
+made
+another
+fine
+save
+hurtling	B-ENT
+to
+his
+right
+to
+deflect
+away
+Dixon
+rising	B-ENT
+shot
+
+14. We
+trained
+on
+an
+artificial	B-ENT
+pitch
+for
+two
+days
+this
+week
+and
+we
+should
+have
+done
+a+lot
+better
+
+15. The
+user
+tells
+the
+analyst
+what
+the
+problems
+are
+and
+the
+analyst
+decides
+at+least
+in
+broad	B-ENT
+terms
+what
+the
+user
+requires
+
+16. Entire
+departments
+can
+be
+set+up	B-ENT
+in
+health
+foreign
+affairs
+agriculture
+trade
+finance
+education
+justice
+religion
+information
+and
+social
+welfare
+
+17. Wriggling	B-ENT
+across
+country
+on
+the
+D216
+to
+Port-d'Envaux
+you
+come
+to
+two
+more
+chateaux
+18th-century
+Panloy
+flaking	B-ENT
+romantically	B-ENT
+away
+on
+its
+hillock
+overlooking
+a
+bend
+in
+the
+Charente
+and
+almost
+next
+door
+the
+much
+older
+moated
+Crazannes
+half-smothered	B-ENT
+in
+amazing
+flamboyant	B-ENT
+Gothic
+carving
+
+18. The
+core
+of
+the
+problem
+is
+simple
+the
+National
+was
+invited
+to
+New York
+only
+last
+November
+and
+the
+Kirov
+is
+planning
+to
+tour
+this
+summer

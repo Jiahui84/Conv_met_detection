@@ -1,0 +1,657 @@
+examples,split,context,sentence_id,word_list,group
+example,train,When he collaborated directly with her in opera the result was of historical significance,a1h-fragment05_9,"When
+he
+collaborated
+directly	B-ENT
+with
+her
+in	B-ENT
+opera
+the
+result
+was
+of
+historical	B-ENT
+significance",10.0
+example,train,Curious subject matter for a children picture+book you might think and hardly guaranteed to win the approval of the gimlet-eyed children book world,a1l-fragment01_15,"Curious	B-ENT
+subject
+matter
+for
+a
+children
+picture+book
+you
+might
+think
+and
+hardly
+guaranteed
+to
+win	B-ENT
+the
+approval
+of
+the
+gimlet-eyed	B-ENT
+children
+book
+world	B-ENT",10.0
+example,test,Writing books for children is becoming increasingly complex as the arbiters of the modern child mores librarians teachers and publishers lay+down ever more stringent criteria,a1l-fragment01_46,"Writing
+books
+for
+children
+is
+becoming
+increasingly
+complex
+as
+the
+arbiters
+of
+the
+modern
+child
+mores
+librarians
+teachers
+and
+publishers
+lay+down	B-ENT
+ever
+more
+stringent
+criteria",10.0
+example,train,I would say just sit+down and tell a good story and to hell with the morality Allan Ahlberg declares,a1l-fragment01_54,"I
+would
+say
+just
+sit+down
+and
+tell
+a
+good
+story
+and
+to
+hell	B-ENT
+with	I-ENT
+the
+morality
+Allan
+Ahlberg
+declares",10.0
+example,test,But they will take into account the need for that balance that says that social spending without underpinning by economic growth will not be sustained in any event,a1p-fragment03_20,"But
+they
+will
+take	B-ENT
+into	I-ENT
+account
+the
+need
+for
+that	B-ENT
+balance	I-ENT
+that
+says	B-ENT
+that
+social
+spending
+without	B-ENT
+underpinning	I-ENT
+by
+economic
+growth	B-ENT
+will
+not
+be
+sustained	B-ENT
+in	I-ENT
+any
+event",10.0
+example,test,RENEE HENRY underwent a lumpectomy and radiotherapy for her breast cancer,a1x-fragment05_4,"RENEE
+HENRY
+underwent
+a
+lumpectomy
+and
+radiotherapy
+for
+her
+breast
+cancer",10.0
+example,train,It was the only new drama series in US network TV to be allowed a second series this year despite a relatively lowly 49th ranking in the ratings,a2d-fragment05_29,"It
+was
+the
+only
+new
+drama
+series
+in	B-ENT
+US
+network	B-ENT
+TV
+to
+be
+allowed	B-ENT
+a
+second
+series
+this	B-ENT
+year
+despite
+a
+relatively
+lowly	B-ENT
+49th
+ranking
+in	B-ENT
+the
+ratings",10.0
+example,train,Westerns are no+longer a cheap option,a2d-fragment05_41,"Westerns
+are
+no+longer
+a
+cheap
+option",10.0
+example,test,It may also be possible to claim damages against a local authority for negligently failing to ensure that construction work complied with the relevant building regulations,a31-fragment03_26,"It
+may
+also
+be
+possible
+to
+claim
+damages
+against	B-ENT
+a
+local
+authority
+for
+negligently
+failing	B-ENT
+to
+ensure
+that
+construction
+work
+complied	B-ENT
+with	I-ENT
+the
+relevant
+building
+regulations",5.0
+example,train,The sales combine items of charm at fairly accessible prices with some rare treasures aimed at big-time collectors,a39-fragment01_6,"The
+sales
+combine	B-ENT
+items
+of
+charm	B-ENT
+at	I-ENT
+fairly
+accessible	B-ENT
+prices
+with
+some
+rare
+treasures
+aimed	B-ENT
+at	I-ENT
+big-time
+collectors",5.0
+example,train,A friend of mine says that her body tells her without being asked the season of the year,a3c-fragment05_55,"A
+friend
+of
+mine
+says
+that
+her
+body
+tells	B-ENT
+her
+without	B-ENT
+being
+asked	B-ENT
+the
+season
+of
+the
+year",5.0
+example,test,If it were only a matter of alcohol would a body care,a3c-fragment05_57,"If
+it
+were
+only
+a
+matter
+of
+alcohol
+would
+a
+body
+care	B-ENT",10.0
+example,test,If you like hanging+out washing rather+than drying it in the bowels of an expensive machine you will need to tuck away a line and make a dry path to get to and from it,a3e-fragment03_9,"If
+you
+like
+hanging+out
+washing
+rather+than
+drying
+it
+in
+the
+bowels	B-ENT
+of
+an
+expensive
+machine
+you
+will
+need
+to
+tuck
+away
+a
+line
+and
+make
+a
+dry
+path
+to
+get
+to
+and
+from
+it",10.0
+example,train,MODERN trams as most continental Europeans know neither shake nor rattle nor do they roll,a3m-fragment02_4,"MODERN
+trams
+as
+most
+continental
+Europeans
+know
+neither
+shake
+nor
+rattle
+nor
+do
+they
+roll",5.0
+example,train,The hotel lies in five acres of fields and garden and the Slingos who own it make the most of their beautiful surroundings by running painting courses for about £200 a week including breakfast and dinner or £90 for a long weekend,a3p-fragment09_15,"The
+hotel
+lies	B-ENT
+in
+five
+acres
+of
+fields
+and
+garden
+and
+the
+Slingos
+who
+own
+it
+make	B-ENT
+the
+most
+of
+their
+beautiful
+surroundings
+by
+running	B-ENT
+painting
+courses	B-ENT
+for
+about	B-ENT
+£200
+a
+week
+including
+breakfast
+and
+dinner
+or
+£90
+for
+a
+long	B-ENT
+weekend",1.0
+example,train,Often,a5e-fragment06_26,Often,10.0
+example,train,The Transport Secretary Mr Cecil Parkinson assured the Commons yesterday that financial considerations would not stand in the way of implementing Sir Anthony Hidden 93 recommendations,a7w-fragment01_13,"The
+Transport
+Secretary
+Mr
+Cecil
+Parkinson
+assured
+the
+Commons
+yesterday
+that
+financial
+considerations
+would
+not
+stand	B-ENT
+in	I-ENT
+the
+way	B-ENT
+of
+implementing
+Sir
+Anthony
+Hidden
+93
+recommendations",10.0
+example,train,By refusing to keep open two-way radio links the crews had effectively ended a proper emergency+service,a7w-fragment01_32,"By
+refusing
+to
+keep
+open	B-ENT
+two-way	I-ENT
+radio
+links	B-ENT
+the
+crews
+had
+effectively
+ended
+a
+proper
+emergency+service",10.0
+example,test,In an ideal world there would be no need for either but+for now I would rather see the frustration expressed in these light-hearted terms than in the sort of man-hating bitterness that has given feminism such a bad name,a8m-fragment02_10,"In	B-ENT
+an
+ideal
+world
+there
+would
+be
+no
+need
+for
+either
+but+for
+now
+I
+would
+rather
+see	B-ENT
+the
+frustration
+expressed	B-ENT
+in	I-ENT
+these	I-ENT
+light-hearted	I-ENT
+terms
+than
+in	B-ENT
+the
+sort
+of
+man-hating	B-ENT
+bitterness	I-ENT
+that
+has
+given	B-ENT
+feminism
+such
+a
+bad
+name",10.0
+example,test,But once the user sees the potential of the system a change in attitude takes place,a8r-fragment02_36,"But
+once
+the
+user
+sees	B-ENT
+the
+potential
+of
+the
+system
+a
+change
+in	B-ENT
+attitude	I-ENT
+takes	I-ENT
+place	I-ENT",5.0
+example,train,Increased demand for its road rail and sea container fleets during the first half helped boost the latest figures,a8u-fragment14_8,"Increased
+demand
+for
+its
+road
+rail
+and
+sea
+container
+fleets
+during
+the
+first
+half
+helped	B-ENT
+boost	I-ENT
+the
+latest
+figures",10.0
+example,train,Second it would consolidate the image and essence of the Intifada as a constructive not a destructive force,a9j-fragment01_51,"Second
+it
+would
+consolidate	B-ENT
+the
+image	B-ENT
+and
+essence	B-ENT
+of	I-ENT
+the
+Intifada
+as
+a
+constructive
+not
+a
+destructive
+force	B-ENT",5.0
+example,test,Here where the Scottish border ran across the Cheviot Hills far from civilisation reiving or cattle-thieving was a way of life,ahc-fragment60_7,"Here
+where
+the
+Scottish
+border	B-ENT
+ran	I-ENT
+across
+the
+Cheviot
+Hills
+far
+from
+civilisation
+reiving
+or
+cattle-thieving
+was
+a
+way	B-ENT
+of	I-ENT
+life",5.0
+example,test,Even for France the variety to be found is enormous,ahc-fragment61_11,"Even
+for
+France
+the
+variety
+to
+be
+found	B-ENT
+is
+enormous",10.0
+example,test,But Aulnay just over 10 miles north-east of St Jean is probably the best its unassuming architecture a perfect frame for the sheer artistry of the carvings round its doors and windows,ahc-fragment61_43,"But
+Aulnay
+just
+over	B-ENT
+10
+miles
+north-east
+of
+St
+Jean
+is
+probably
+the
+best
+its
+unassuming	B-ENT
+architecture
+a
+perfect
+frame	B-ENT
+for
+the
+sheer	B-ENT
+artistry
+of
+the
+carvings
+round
+its
+doors
+and
+windows",10.0
+example,test,DUVETS phonecards hot showers and video films will greet inmates at Britain first privately-run prison when it opens on Monday,ahe-fragment03_4,"DUVETS
+phonecards
+hot
+showers
+and
+video
+films
+will
+greet	B-ENT
+inmates
+at
+Britain
+first
+privately-run
+prison
+when
+it
+opens	B-ENT
+on	I-ENT
+Monday",10.0
+example,test,The 60 male warders or custody officers as they are called wear a dapper outfit of black blazers grey trousers white shirts and grey tie,ahe-fragment03_14,"The
+60
+male
+warders
+or
+custody
+officers
+as
+they
+are
+called
+wear
+a
+dapper	B-ENT
+outfit
+of
+black
+blazers
+grey
+trousers
+white
+shirts
+and
+grey
+tie",1.0
+example,test,A Liberal,ahf-fragment63_10,"A
+Liberal",5.0
+example,test,But the most striking thing about Bagehot essay on Peel in+the+light+of the last full week of this election campaign is that it simply does not apply to Major at+all,ahf-fragment63_36,"But
+the
+most
+striking
+thing	B-ENT
+about	I-ENT
+Bagehot
+essay
+on	B-ENT
+Peel
+in+the+light+of
+the
+last
+full	B-ENT
+week
+of
+this	B-ENT
+election
+campaign	B-ENT
+is
+that
+it
+simply
+does
+not
+apply	B-ENT
+to	I-ENT
+Major
+at+all",5.0
+example,train,Nolte Midler and Crystal do n't even win Oscars,ajf-fragment07_35,"Nolte
+Midler
+and
+Crystal
+do
+n't
+even
+win
+Oscars",5.0
+example,train,The market price-earnings multiple was 16 last night but it would drop below 14 if that increase in earnings really happens,al2-fragment16_10,"The
+market	B-ENT
+price-earnings
+multiple
+was
+16
+last
+night
+but
+it
+would
+drop	B-ENT
+below	I-ENT
+14
+if
+that	B-ENT
+increase
+in	B-ENT
+earnings
+really
+happens",10.0
+example,test,MORE+than 800 Lloyd 's of London members on syndicates managed by the loss-making Gooda Walker agency have failed in their legal attempt to prevent Lloyd and members agents from drawing down their funds,al2-fragment23_4,"MORE+than
+800
+Lloyd
+'s
+of
+London
+members	B-ENT
+on	I-ENT
+syndicates
+managed
+by
+the
+loss-making
+Gooda
+Walker
+agency
+have
+failed
+in	B-ENT
+their
+legal
+attempt
+to
+prevent
+Lloyd
+and
+members	B-ENT
+agents
+from	B-ENT
+drawing	I-ENT
+down	I-ENT
+their
+funds",10.0

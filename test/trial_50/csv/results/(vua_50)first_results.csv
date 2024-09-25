@@ -1,0 +1,2 @@
+,Accuracy,F1,Precision,Recall,Detected_num,Total_Num,True_Positive,True_Negative,False_Positive,False_Negative
+Label_24,0.8524426719840479,0.22309711286089243,0.5279503105590062,0.14143094841930118,161,601,85,3335,76,516

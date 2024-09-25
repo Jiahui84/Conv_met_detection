@@ -1,0 +1,167 @@
+Comparing output_0 and output_1:
+
+first_order_sorted.csv:
+
+label_4: p-value = 0.00415847306478204
+label_14: p-value = 0.006052539424559368
+label_22: p-value = 2.6032078607741377e-18
+label_25: p-value = 0.0013902601073185463
+
+second_order_sorted.csv:
+
+label_7: p-value = 1.4360207833643e-36
+label_15: p-value = 0.028089467947778165
+label_24: p-value = 3.774053391516933e-143
+
+third_order_sorted.csv:
+
+label_1: p-value = 0.013712033079849195
+label_3: p-value = 1.329028919570328e-18
+label_9: p-value = 0.0011086208878113386
+label_23: p-value = 0.014799505045483288
+label_24: p-value = 2.586235003305433e-81
+label_25: p-value = 0.0002621681296867191
+
+Comparing output_0 and output_5:
+
+first_order_sorted.csv:
+
+label_5: p-value = 0.0011086208878113386
+label_7: p-value = 0.009683555095331005
+label_12: p-value = 0.010817905625818625
+label_16: p-value = 0.005682824660016618
+label_22: p-value = 1.1046769616716427e-14
+
+second_order_sorted.csv:
+
+label_1: p-value = 0.038179441579785374
+label_2: p-value = 0.007178115485500818
+label_3: p-value = 0.03521102017980901
+label_7: p-value = 0.013183368381607285
+label_11: p-value = 0.007234542621729916
+label_13: p-value = 0.0026846980412799162
+label_18: p-value = 0.024793536339643683
+label_22: p-value = 0.009966324337995335
+label_24: p-value = 2.5423051446528716e-141
+
+third_order_sorted.csv:
+
+label_3: p-value = 4.802163516364586e-14
+label_4: p-value = 0.022375141333215814
+label_7: p-value = 2.9391095138567976e-35
+label_8: p-value = 0.0329697564108826
+label_13: p-value = 0.001727170354402501
+label_17: p-value = 0.008032780505172027
+label_19: p-value = 9.25884384181139e-46
+label_21: p-value = 0.00032713047727164665
+label_24: p-value = 8.528106018630423e-79
+
+Comparing output_0 and output_10:
+
+first_order_sorted.csv:
+
+label_13: p-value = 0.000913112874001578
+label_22: p-value = 1.0381775717659965e-17
+
+second_order_sorted.csv:
+
+label_24: p-value = 4.551973747651013e-138
+
+third_order_sorted.csv:
+
+label_1: p-value = 0.02707352909398981
+label_3: p-value = 7.948420725522052e-22
+label_24: p-value = 1.1297643357296371e-82
+label_25: p-value = 0.04744112748635077
+
+Comparing output_1 and output_5:
+
+first_order_sorted.csv:
+
+label_2: p-value = 0.0008214525388957499
+label_4: p-value = 2.7552798008748024e-05
+label_5: p-value = 0.0006293470747506883
+label_6: p-value = 0.0075848117754316186
+label_7: p-value = 0.019677394492866023
+label_9: p-value = 0.007846593122439722
+label_10: p-value = 0.025543364029782935
+label_11: p-value = 0.005325740283781563
+label_12: p-value = 0.03992817966861652
+label_14: p-value = 0.0007995844433963236
+label_15: p-value = 0.01843057167038033
+label_16: p-value = 0.0010844284704958557
+label_20: p-value = 0.00548246878576062
+label_21: p-value = 0.014359642888005224
+label_25: p-value = 0.0002592477182359919
+
+second_order_sorted.csv:
+
+label_2: p-value = 4.410029455394906e-05
+label_3: p-value = 0.006479665826347685
+label_6: p-value = 0.023125726989789167
+label_7: p-value = 3.77880925236624e-29
+label_10: p-value = 0.018693425409254078
+label_11: p-value = 0.0006916620893659545
+label_15: p-value = 0.007846593122439722
+label_22: p-value = 0.004786266356000363
+
+third_order_sorted.csv:
+
+label_3: p-value = 7.948420725522052e-22
+label_7: p-value = 2.9391095138567976e-35
+label_8: p-value = 0.0329697564108826
+label_13: p-value = 0.001727170354402501
+label_17: p-value = 0.008032780505172027
+label_19: p-value = 9.25884384181139e-46
+label_21: p-value = 0.00032713047727164665
+label_24: p-value = 8.528106018630423e-79
+
+Comparing output_1 and output_10:
+
+first_order_sorted.csv:
+
+label_4: p-value = 0.0005333992648071451
+label_14: p-value = 0.012660684520477252
+label_15: p-value = 0.028195308926877438
+label_20: p-value = 0.003722449304070797
+Not Significant:
+
+second_order_sorted.csv:
+
+label_7: p-value = 3.529792039826833e-33
+label_16: p-value = 0.01843057167038033
+label_23: p-value = 0.02501609692725934
+
+third_order_sorted.csv:
+
+label_6: p-value = 0.044885393128895716
+label_9: p-value = 0.005184875677476075
+label_23: p-value = 0.02702396051785447
+
+Comparing output_5 and output_10:
+first_order_sorted.csv:
+
+label_5: p-value = 0.027944840955287726
+label_12: p-value = 0.03559998587055807
+label_13: p-value = 0.0031196232899818725
+label_21: p-value = 0.04891515703541783
+
+second_order_sorted.csv:
+
+label_2: p-value = 0.01723638286712919
+label_3: p-value = 0.007182068473081055
+label_8: p-value = 0.04498016418904381
+label_13: p-value = 0.0003032364569661188
+
+third_order_sorted.csv:
+
+label_3: p-value = 0.0006813642297109454
+label_5: p-value = 0.037718957484689945
+label_7: p-value = 3.146647762495203e-36
+label_8: p-value = 0.04306699847787232
+label_10: p-value = 0.006086946806157235
+label_13: p-value = 0.0002648819674846673
+label_17: p-value = 0.0019352292476659421
+label_19: p-value = 7.490198467465096e-41
+label_20: p-value = 0.0329697564108826
+label_21: p-value = 0.007794310586633005
