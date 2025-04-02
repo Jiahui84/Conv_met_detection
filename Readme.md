@@ -58,7 +58,7 @@ IBO_labeling: results for testing using IBO labeling schema in the prompt
 trial_50: results for providing 50 examples as 50-shot prompting
 AutoPrompt-main: results of prompts revised by the prompt improvement tool —— AutoPrompt
 
-#Replicate the experiment
+#Replication
 If you want to get the performance results yourself, you can run through the scripts: Step3_Get_classification_report.py, Last_Step_wordcat_eval.ipynb, Last_Step_McNemar test.ipynb directly
 Run Step3_Get_classification_report.py with this line: 
 (output_num, num from 0/1/5/10)
