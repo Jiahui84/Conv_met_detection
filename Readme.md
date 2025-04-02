@@ -59,7 +59,7 @@ trial_50: results for providing 50 examples as 50-shot prompting
 AutoPrompt-main: results of prompts revised by the prompt improvement tool —— AutoPrompt
 
 #Replicate the experiment
-#If you want to get the performance results yourself, you can run through the scripts: Step3_Get_classification_report.py, Last_Step_wordcat_eval.ipynb, Last_Step_McNemar test.ipynb directly
+If you want to get the performance results yourself, you can run through the scripts: Step3_Get_classification_report.py, Last_Step_wordcat_eval.ipynb, Last_Step_McNemar test.ipynb directly
 Run Step3_Get_classification_report.py with this line: 
 (output_num, num from 0/1/5/10)
 
@@ -87,7 +87,7 @@ csv:
 - results_log: log files of code running records of the performance results
 
 
-#Replicate the experiment
+If you want to replicate the whole experiment:
 
 Open terminal -> locate to code folder in the main folder
 
