@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 This project presents a workflow to explore if GPT4 can detect conventional metaphors with prompting approaches. For the Hypothesis, we assume that model performance on this task will improve with the increase of examples provided to the model, until reaching the model's capability limit. And more examples can teach the model more patterns to distinguish conventional metaphors from others. Thus, we design a two-stage experiment to verify this:
 
 1.	Zero-shot (bare task description to see what the model does “out of the box”)
@@ -6,13 +6,13 @@ This project presents a workflow to explore if GPT4 can detect conventional meta
 -	providing sentences with word-level labels 
 
 
-## Structure of the documents
+# Structure of the documents
 There are 6 folders:
 
-# background check
+## background check
 It includes 6 documents of the chats with GPT4 API and ChatGPT4 about the background information of metaphors/conventional metaphors
 
-# data
+## data
 1.	corpus
 Corpus_identification_del_met.csv: original deliberate metaphor corpus with deliberate metaphors labelled with 1
 Corpus_identification_con_met.csv: adapted conventional metaphor corpus with conventional metaphor labelled with 1, non-conventional metaphors labelled with 2 and non-metaphors labelled with 0
@@ -26,14 +26,14 @@ Prompt_map.docx: Explain the catagorization of the prompts (prompt features)
 25_prompts_0shot.csv: prompts for 0-shot prompting
 25_prompts_nshot.csv: prompts for n-shot prompting
 
-# codes
+## codes
 Preprocess_corpus.ipynb: Pre-processing corpus for model labelling and prompts premutation for model use
 Running_through_API.ipynb: Run sentences for labelling through the models with different prompts, and post-process the outputs for evaluation
 Get_classification_report.py: get performance report of Accuracy, F1, Recall, Precision for model outputs
 wordcat_eval.ipynb: Extract True Positives (TP), True Negatives (TN) and False Positives (FP) words and their wordcat. Conduct statistical analysis of the wordcat
 McNemar test.ipynb: Evaluate model's stability from two directions ——  comparison of same prompt in different shot prompting and comparison of different prompts in the same shot prompting
 
-# outputs
+## outputs
 output_0: raw outputs, sorted outputs and results of 0-shot prompting stage
 output_1: raw outputs, sorted outputs and results of 1-shot prompting stage
 output_5: raw outputs, sorted outputs and results of 5-shot prompting stage
@@ -42,7 +42,7 @@ secret: repeat the 0-10 shot prompting experiments above
 +words.txt: summarize all the word pairs in the corpus
 Output_Sorting_Guidelines.docx: guidelines for sorting out the raw model outputs
 
-# analysis
+## analysis
 1.	wordcat error analysis
 raw: raw TP, FP, FN extract from the output sorted files
 stats: calculate the wordcats of TP, FP, FN in three times experiments
@@ -52,22 +52,19 @@ average_stats: average stats of three times experiment and visualize them in fig
 Comparison_across_shots: see whether there is significant difference for same prompt in different shot prompting stages
 Comparison_between_prompts_in_different_shots: see whether there is significant difference for different prompt in the same shot prompting stage
 
-# test
+## test
 0-shot_keyword: results for testing same prompts with different key words: lexicalized metaphor, metaphors, conventional metaphors but only NVAJ, conventional metaphors but only NVAJ, metaphors but only NVAJ
 IBO_labeling: results for testing using IBO labeling schema in the prompt
 trial_50: results for providing 50 examples as 50-shot prompting
 AutoPrompt-main: results of prompts revised by the prompt improvement tool —— AutoPrompt
 
-##Replicate the experiment
+#Replicate the experiment
 #If you want to get the performance results yourself, you can run through the scripts: Step3_Get_classification_report.py, Last_Step_wordcat_eval.ipynb, Last_Step_McNemar test.ipynb directly
 Run Step3_Get_classification_report.py with this line: 
-(output_0 can be change to)
-
-#outputs
+(output_num, num from 0/1/5/10)
 
 Output_Sorting_Guidelines.docx: Explains the problems encountered while sorting out model outputs for evaluation and corresponding solutions
 python Get_classification_report.py "../outputs/output_0/csv/sorted/(conventional)*_output_sorted.csv" conventional_results.log
-#output_0/1/5/10
 
 raw: the original model outputs of different variation of prompts and different prompts in txt file
 
@@ -90,7 +87,7 @@ csv:
 - results_log: log files of code running records of the performance results
 
 
-##Replicate the experiment
+#Replicate the experiment
 
 Open terminal -> locate to code folder in the main folder
 
